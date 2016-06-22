@@ -4,7 +4,7 @@ La **CopaDev** es un torneo de Fútbol 5 para empresas que hacen software del bu
 
 ![](https://github.com/PabloVallejo/copa-software-makers/blob/master/photo.jpeg?raw=true)
 
-La duración del torneo es de 3 semanas. Las 2 primeras semanas se harán 2 fechas por semana, y la última semana será la final. Los equipos estarán divididos en dos grupos.
+La duración del torneo es de 5 fechas, una fecha por semana. Los equipos estarán divididos en dos grupos.
 
 ### Grupos
 
@@ -29,7 +29,7 @@ La duración del torneo es de 3 semanas. Las 2 primeras semanas se harán 2 fech
 
 > Fecha de inicio: Julio de 2016, día aún por definir
 
-En la primera ronda (semanas 1, 2) los 4 equipos de cada grupo se enfrentarán, los cuatro ganadores jugarán dos semifinales y de allí saldrán los dos equipos que jugarán la gran final.
+En la primera ronda (Fechas 1, 2 y 3) los 4 equipos de cada grupo se enfrentarán, los cuatro ganadores jugarán dos semifinales y de allí saldrán los dos equipos que jugarán la gran final.
 
 | Fecha 1        | Fecha 2        | Fecha 3       | Semifinal Fecha 4  | Gran Final Fecha 5
 | ----------------|:---------------:| --------------:|----------:|----------
@@ -37,6 +37,14 @@ En la primera ronda (semanas 1, 2) los 4 equipos de cada grupo se enfrentarán, 
 | Equipos C vs D  | Equipos D vs B  | Equipos C vs B | ...       | ...
 | Equipos E vs F  | Equipos E vs G  | Equipos E vs H | ...       | ...
 | Equipos G vs H  | Equipos F vs H  | Equipos F vs G | ...       | ...
+
+
+> Tentativamente las fechas serían:
+> Fecha 1: 11 Julio 2016 (Lunes)
+> Fecha 2: 18 Julio 2016 (Lunes)
+> Fecha 3: 25 Julio 2016 (Lunes)
+> Fecha 4: 1 Agosto 2016 (Lunes)
+> Fecha 5: 8 Agosto 2016 (Lunes)
 
 
 ### Inscripción
