@@ -22,7 +22,7 @@ Para inscribirte debes listar el nombre de tu equipo y sus integrantes en este a
 
 * Santiago Feijoo - [@sanfeijoo](https://twitter.com/sanfeijoo)
 * Camilo Nova - [@camilonova](https://twitter.com/camilonova)
-* Ivan Ramirez - @ivancarrancho
+* Ivan Ramirez - [@ivancarrancho](https://twitter.com/ivancarrancho)
 * Pablo Vallejo - [@pablovallejo](https://github.com/pablovallejo)
 * Felipe Gonzales - @felipe3dfx
 
