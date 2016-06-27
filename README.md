@@ -23,11 +23,11 @@ La duración del torneo es de 5 fechas, una fecha por semana. Los equipos estar�
 
 ### Lista de fechas :date: 
 
-* Fecha 1: 14 Julio 2016 
-* Fecha 2: 21 Julio 2016 
-* Fecha 3: 28 Julio 2016 
-* Fecha 4: 4 Agosto 2016 
-* Fecha 5: 11 Agosto 2016
+* Fecha 1: 13 Julio 2016  Miércoles
+* Fecha 2: 21 Julio 2016  Jueves (Debido a festivo)
+* Fecha 3: 27 Julio 2016  Miércoles
+* Fecha 4: 3 Agosto 2016  Miércoles
+* Fecha 5: 10 Agosto 2016  Miércoles
 
 ### Grupos
 
