@@ -2,22 +2,458 @@
 layout: default
 ---
 
-<div class="home">
+<main class="mdl-main mdl-layout__content">
+  <div class="mdl-container mdl-grid">
+    <div class="mdl-cell mdl-cell--2-col mdl-cell--hide-tablet mdl-cell--hide-phone team-nav--ghost"></div>
+    <div class="mdl-content content mdl-color-text--grey-800 mdl-cell mdl-cell--10-col mdl-grid">
 
-  <h1 class="page-heading">Posts</h1>
+      <!-- <div class="mdl-cell mdl-cell--12-col">
+                  <h4>Lista de equipos inscritos</h4>
+                  <p>Para inscribirte debes listar el nombre de tu equipo con sus integrantes en el archivo teams.md y crear un Pull request.</p>
+                </div> -->
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+      <div class="team-nav">
+        <div class="team-nav__text">
+          <h4>Lista de equipos</h4>
+          <p>Para inscribir un equipo debes listar el nombre de tu equipo con sus integrantes en el archivo <a href="https://github.com/eduNEXT/CopaDev/blob/gh-pages/equipos.md">teams.md</a> y crear un Pull request.</p>
+        </div>
+        <a href="https://github.com/eduNEXT/CopaDev/blob/gh-pages/equipos.md" target="_blank">
+          <button class="team-nav__button mdl-button">enviar pull request</button>
+        </a>
+      </div>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+      <div class="mdl-cell mdl-cell--3-col mdl-shadow--2dp team-card" style="background-color: rgb(44, 172, 228);">
+        <div class="mdl-cell mdl-cell--12-col mdl-card team-card__info">
+          <div class="mdl-card__title mdl-card--expand mdl-color-text--grey-800">
+            <img src="https://manage.edunext.co/static/images/logo.png" alt="">
+          </div>
+          <div class="mdl-card__actions mdl-card--border">
+            <a class="mdl-button mdl-button--colored mdl-js-button" href="#">edunext.io</a>
+            <div class="mdl-layout-spacer"></div>
+            <i class="material-icons">launch</i>
+          </div>
+        </div>
+        <div class="mdl-cell mdl-cell--12-col mdl-list mdl-color--white">
+          <div class="mdl-list__item">
+            <span class="mdl-list__item-primary-content">
+              <img class="mdl-list__item-avatar" src="https://pbs.twimg.com/profile_images/679686090240987137/C8IqKgoF_400x400.jpg" alt="">
+              <span>Daniel Naranjo</span>
+            </span>
+          </div>
+          <div class="mdl-list__item">
+            <span class="mdl-list__item-primary-content">
+              <img class="mdl-list__item-avatar" src="https://lh4.googleusercontent.com/-5N3yUQuwFps/AAAAAAAAAAI/AAAAAAAAAAA/DhzmWofH9Wo/s128-c-k/photo.jpg" alt="">
+              <span>Felipe Montoya</span>
+            </span>
+          </div>
+          <div class="mdl-list__item">
+            <span class="mdl-list__item-primary-content">
+              <img class="mdl-list__item-avatar" src="" alt="">
+              <span>Jhony Avella</span>
+            </span>
+          </div>
+          <div class="mdl-list__item">
+            <span class="mdl-list__item-primary-content">
+              <img class="mdl-list__item-avatar" src="" alt="">
+              <span>Leonardo Quinones</span>
+            </span>
+            <span class="mdl-list__item-secondary-content">
+            </span>
+          </div>
+          <div class="mdl-list__item">
+            <span class="mdl-list__item-primary-content">
+              <img class="mdl-list__item-avatar" src="" alt="">
+              <span>Diego Millan</span>
+            </span>
+            <span class="mdl-list__item-secondary-content">
+            </span>
+          </div>
+          <div class="mdl-list__item">
+            <span class="mdl-list__item-primary-content">
+              <img class="mdl-list__item-avatar" src="" alt="">
+              <span>Pedro Crash</span>
+            </span>
+            <span class="mdl-list__item-secondary-content">
+            </span>
+          </div>
+        </div>
+      </div>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+      <div class="mdl-cell mdl-cell--3-col mdl-shadow--2dp team-card" style="background-color: rgb(252, 188, 4);">
+        <div class="mdl-cell mdl-cell--12-col mdl-card team-card__info">
+          <div class="mdl-card__title mdl-card--expand mdl-color-text--grey-800">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/2000px-Google_2015_logo.svg.png" alt="">
+          </div>
+          <div class="mdl-card__actions mdl-card--border">
+            <a class="mdl-button mdl-button--colored mdl-js-button" href="#">axiacore.com</a>
+            <div class="mdl-layout-spacer"></div>
+            <i class="material-icons">launch</i>
+          </div>
+        </div>
+        <div class="mdl-cell mdl-cell--12-col mdl-list mdl-color--white">
+          <div class="mdl-list__item">
+            <span class="mdl-list__item-primary-content">
+              <img class="mdl-list__item-avatar" src="https://pbs.twimg.com/profile_images/509010899886043137/38d33_zu.jpeg" alt="">
+              <span>Santiago Feijoo</span>
+            </span>
+          </div>
+          <div class="mdl-list__item">
+            <span class="mdl-list__item-primary-content">
+              <img class="mdl-list__item-avatar" src="https://pbs.twimg.com/profile_images/533632948201738241/qVYQhfpt.jpeg" alt="">
+              <span>Camilo Nova</span>
+            </span>
+          </div>
+          <div class="mdl-list__item">
+            <span class="mdl-list__item-primary-content">
+              <img class="mdl-list__item-avatar" src="https://pbs.twimg.com/profile_images/690373072134770688/8bQPoB0n.jpg" alt="">
+              <span>Ivan Ramirez</span>
+            </span>
+          </div>
+          <div class="mdl-list__item">
+            <span class="mdl-list__item-primary-content">
+              <img class="mdl-list__item-avatar" src="https://pbs.twimg.com/profile_images/428714261775269889/xi51PuZN_400x400.jpeg" alt="">
+              <span>Pablo Vallejo</span>
+            </span>
+            <span class="mdl-list__item-secondary-content">
+            </span>
+          </div>
+          <div class="mdl-list__item">
+            <span class="mdl-list__item-primary-content">
+              <img class="mdl-list__item-avatar" src="https://avatars0.githubusercontent.com/u/4070833?v=3&s=460" alt="">
+              <span>Felipe Gonzales</span>
+            </span>
+            <span class="mdl-list__item-secondary-content">
+            </span>
+          </div>
+        </div>
+      </div>
 
-</div>
+      <div class="mdl-cell mdl-cell--3-col mdl-shadow--2dp team-card" style="background-color: rgb(44, 172, 228);">
+        <div class="mdl-cell mdl-cell--12-col mdl-card team-card__info">
+          <div class="mdl-card__title mdl-card--expand mdl-color-text--grey-800">
+            <img src="https://manage.edunext.co/static/images/logo.png" alt="">
+          </div>
+          <div class="mdl-card__actions mdl-card--border">
+            <a class="mdl-button mdl-button--colored mdl-js-button" href="#">edunext.io</a>
+            <div class="mdl-layout-spacer"></div>
+            <i class="material-icons">launch</i>
+          </div>
+        </div>
+        <div class="mdl-cell mdl-cell--12-col mdl-list mdl-color--white">
+          <div class="mdl-list__item">
+            <span class="mdl-list__item-primary-content">
+              <img class="mdl-list__item-avatar" src="https://pbs.twimg.com/profile_images/679686090240987137/C8IqKgoF_400x400.jpg" alt="">
+              <span>Daniel Naranjo</span>
+            </span>
+          </div>
+          <div class="mdl-list__item">
+            <span class="mdl-list__item-primary-content">
+              <img class="mdl-list__item-avatar" src="https://lh4.googleusercontent.com/-5N3yUQuwFps/AAAAAAAAAAI/AAAAAAAAAAA/DhzmWofH9Wo/s128-c-k/photo.jpg" alt="">
+              <span>Felipe Montoya</span>
+            </span>
+          </div>
+          <div class="mdl-list__item">
+            <span class="mdl-list__item-primary-content">
+              <img class="mdl-list__item-avatar" src="" alt="">
+              <span>Jhony Avella</span>
+            </span>
+          </div>
+          <div class="mdl-list__item">
+            <span class="mdl-list__item-primary-content">
+              <img class="mdl-list__item-avatar" src="" alt="">
+              <span>Leonardo Quinones</span>
+            </span>
+            <span class="mdl-list__item-secondary-content">
+            </span>
+          </div>
+          <div class="mdl-list__item">
+            <span class="mdl-list__item-primary-content">
+              <img class="mdl-list__item-avatar" src="" alt="">
+              <span>Diego Millan</span>
+            </span>
+            <span class="mdl-list__item-secondary-content">
+            </span>
+          </div>
+          <div class="mdl-list__item">
+            <span class="mdl-list__item-primary-content">
+              <img class="mdl-list__item-avatar" src="" alt="">
+              <span>Pedro Crash</span>
+            </span>
+            <span class="mdl-list__item-secondary-content">
+            </span>
+          </div>
+        </div>
+      </div>
+
+      <div class="mdl-cell mdl-cell--3-col mdl-shadow--2dp team-card" style="background-color: rgb(4, 132, 244);">
+        <div class="mdl-cell mdl-cell--12-col mdl-card team-card__info">
+          <div class="mdl-card__title mdl-card--expand mdl-color-text--grey-800">
+            <img src="https://axiacore.com/static/img/icons/axiacore-color.svg" alt="">
+          </div>
+          <div class="mdl-card__actions mdl-card--border">
+            <a class="mdl-button mdl-button--colored mdl-js-button" href="#">axiacore.com</a>
+            <div class="mdl-layout-spacer"></div>
+            <i class="material-icons">launch</i>
+          </div>
+        </div>
+        <div class="mdl-cell mdl-cell--12-col mdl-list mdl-color--white">
+          <div class="mdl-list__item">
+            <span class="mdl-list__item-primary-content">
+              <img class="mdl-list__item-avatar" src="https://pbs.twimg.com/profile_images/509010899886043137/38d33_zu.jpeg" alt="">
+              <span>Santiago Feijoo</span>
+            </span>
+          </div>
+          <div class="mdl-list__item">
+            <span class="mdl-list__item-primary-content">
+              <img class="mdl-list__item-avatar" src="https://pbs.twimg.com/profile_images/533632948201738241/qVYQhfpt.jpeg" alt="">
+              <span>Camilo Nova</span>
+            </span>
+          </div>
+          <div class="mdl-list__item">
+            <span class="mdl-list__item-primary-content">
+              <img class="mdl-list__item-avatar" src="https://pbs.twimg.com/profile_images/690373072134770688/8bQPoB0n.jpg" alt="">
+              <span>Ivan Ramirez</span>
+            </span>
+          </div>
+          <div class="mdl-list__item">
+            <span class="mdl-list__item-primary-content">
+              <img class="mdl-list__item-avatar" src="https://pbs.twimg.com/profile_images/428714261775269889/xi51PuZN_400x400.jpeg" alt="">
+              <span>Pablo Vallejo</span>
+            </span>
+            <span class="mdl-list__item-secondary-content">
+            </span>
+          </div>
+          <div class="mdl-list__item">
+            <span class="mdl-list__item-primary-content">
+              <img class="mdl-list__item-avatar" src="https://avatars0.githubusercontent.com/u/4070833?v=3&s=460" alt="">
+              <span>Felipe Gonzales</span>
+            </span>
+            <span class="mdl-list__item-secondary-content">
+            </span>
+          </div>
+        </div>
+      </div>
+
+      <div class="mdl-cell mdl-cell--3-col mdl-shadow--2dp team-card" style="background-color: rgb(44, 172, 228);">
+        <div class="mdl-cell mdl-cell--12-col mdl-card team-card__info">
+          <div class="mdl-card__title mdl-card--expand mdl-color-text--grey-800">
+            <img src="https://manage.edunext.co/static/images/logo.png" alt="">
+          </div>
+          <div class="mdl-card__actions mdl-card--border">
+            <a class="mdl-button mdl-button--colored mdl-js-button" href="#">edunext.io</a>
+            <div class="mdl-layout-spacer"></div>
+            <i class="material-icons">launch</i>
+          </div>
+        </div>
+        <div class="mdl-cell mdl-cell--12-col mdl-list mdl-color--white">
+          <div class="mdl-list__item">
+            <span class="mdl-list__item-primary-content">
+              <img class="mdl-list__item-avatar" src="https://pbs.twimg.com/profile_images/679686090240987137/C8IqKgoF_400x400.jpg" alt="">
+              <span>Daniel Naranjo</span>
+            </span>
+          </div>
+          <div class="mdl-list__item">
+            <span class="mdl-list__item-primary-content">
+              <img class="mdl-list__item-avatar" src="https://lh4.googleusercontent.com/-5N3yUQuwFps/AAAAAAAAAAI/AAAAAAAAAAA/DhzmWofH9Wo/s128-c-k/photo.jpg" alt="">
+              <span>Felipe Montoya</span>
+            </span>
+          </div>
+          <div class="mdl-list__item">
+            <span class="mdl-list__item-primary-content">
+              <img class="mdl-list__item-avatar" src="" alt="">
+              <span>Jhony Avella</span>
+            </span>
+          </div>
+          <div class="mdl-list__item">
+            <span class="mdl-list__item-primary-content">
+              <img class="mdl-list__item-avatar" src="" alt="">
+              <span>Leonardo Quinones</span>
+            </span>
+            <span class="mdl-list__item-secondary-content">
+            </span>
+          </div>
+          <div class="mdl-list__item">
+            <span class="mdl-list__item-primary-content">
+              <img class="mdl-list__item-avatar" src="" alt="">
+              <span>Diego Millan</span>
+            </span>
+            <span class="mdl-list__item-secondary-content">
+            </span>
+          </div>
+          <div class="mdl-list__item">
+            <span class="mdl-list__item-primary-content">
+              <img class="mdl-list__item-avatar" src="" alt="">
+              <span>Pedro Crash</span>
+            </span>
+            <span class="mdl-list__item-secondary-content">
+            </span>
+          </div>
+        </div>
+      </div>
+
+      <div class="mdl-cell mdl-cell--3-col mdl-shadow--2dp team-card" style="background-color: rgb(4, 132, 244);">
+        <div class="mdl-cell mdl-cell--12-col mdl-card team-card__info">
+          <div class="mdl-card__title mdl-card--expand mdl-color-text--grey-800">
+            <img src="https://axiacore.com/static/img/icons/axiacore-color.svg" alt="">
+          </div>
+          <div class="mdl-card__actions mdl-card--border">
+            <a class="mdl-button mdl-button--colored mdl-js-button" href="#">axiacore.com</a>
+            <div class="mdl-layout-spacer"></div>
+            <i class="material-icons">launch</i>
+          </div>
+        </div>
+        <div class="mdl-cell mdl-cell--12-col mdl-list mdl-color--white">
+          <div class="mdl-list__item">
+            <span class="mdl-list__item-primary-content">
+              <img class="mdl-list__item-avatar" src="https://pbs.twimg.com/profile_images/509010899886043137/38d33_zu.jpeg" alt="">
+              <span>Santiago Feijoo</span>
+            </span>
+          </div>
+          <div class="mdl-list__item">
+            <span class="mdl-list__item-primary-content">
+              <img class="mdl-list__item-avatar" src="https://pbs.twimg.com/profile_images/533632948201738241/qVYQhfpt.jpeg" alt="">
+              <span>Camilo Nova</span>
+            </span>
+          </div>
+          <div class="mdl-list__item">
+            <span class="mdl-list__item-primary-content">
+              <img class="mdl-list__item-avatar" src="https://pbs.twimg.com/profile_images/690373072134770688/8bQPoB0n.jpg" alt="">
+              <span>Ivan Ramirez</span>
+            </span>
+          </div>
+          <div class="mdl-list__item">
+            <span class="mdl-list__item-primary-content">
+              <img class="mdl-list__item-avatar" src="https://pbs.twimg.com/profile_images/428714261775269889/xi51PuZN_400x400.jpeg" alt="">
+              <span>Pablo Vallejo</span>
+            </span>
+            <span class="mdl-list__item-secondary-content">
+            </span>
+          </div>
+          <div class="mdl-list__item">
+            <span class="mdl-list__item-primary-content">
+              <img class="mdl-list__item-avatar" src="https://avatars0.githubusercontent.com/u/4070833?v=3&s=460" alt="">
+              <span>Felipe Gonzales</span>
+            </span>
+            <span class="mdl-list__item-secondary-content">
+            </span>
+          </div>
+        </div>
+      </div>
+
+      <div class="mdl-cell mdl-cell--3-col mdl-shadow--2dp team-card" style="background-color: rgb(44, 172, 228);">
+        <div class="mdl-cell mdl-cell--12-col mdl-card team-card__info">
+          <div class="mdl-card__title mdl-card--expand mdl-color-text--grey-800">
+            <img src="https://manage.edunext.co/static/images/logo.png" alt="">
+          </div>
+          <div class="mdl-card__actions mdl-card--border">
+            <a class="mdl-button mdl-button--colored mdl-js-button" href="#">edunext.io</a>
+            <div class="mdl-layout-spacer"></div>
+            <i class="material-icons">launch</i>
+          </div>
+        </div>
+        <div class="mdl-cell mdl-cell--12-col mdl-list mdl-color--white">
+          <div class="mdl-list__item">
+            <span class="mdl-list__item-primary-content">
+              <img class="mdl-list__item-avatar" src="https://pbs.twimg.com/profile_images/679686090240987137/C8IqKgoF_400x400.jpg" alt="">
+              <span>Daniel Naranjo</span>
+            </span>
+          </div>
+          <div class="mdl-list__item">
+            <span class="mdl-list__item-primary-content">
+              <img class="mdl-list__item-avatar" src="https://lh4.googleusercontent.com/-5N3yUQuwFps/AAAAAAAAAAI/AAAAAAAAAAA/DhzmWofH9Wo/s128-c-k/photo.jpg" alt="">
+              <span>Felipe Montoya</span>
+            </span>
+          </div>
+          <div class="mdl-list__item">
+            <span class="mdl-list__item-primary-content">
+              <img class="mdl-list__item-avatar" src="" alt="">
+              <span>Jhony Avella</span>
+            </span>
+          </div>
+          <div class="mdl-list__item">
+            <span class="mdl-list__item-primary-content">
+              <img class="mdl-list__item-avatar" src="" alt="">
+              <span>Leonardo Quinones</span>
+            </span>
+            <span class="mdl-list__item-secondary-content">
+            </span>
+          </div>
+          <div class="mdl-list__item">
+            <span class="mdl-list__item-primary-content">
+              <img class="mdl-list__item-avatar" src="" alt="">
+              <span>Diego Millan</span>
+            </span>
+            <span class="mdl-list__item-secondary-content">
+            </span>
+          </div>
+          <div class="mdl-list__item">
+            <span class="mdl-list__item-primary-content">
+              <img class="mdl-list__item-avatar" src="" alt="">
+              <span>Pedro Crash</span>
+            </span>
+            <span class="mdl-list__item-secondary-content">
+            </span>
+          </div>
+        </div>
+      </div>
+
+      <div class="mdl-cell mdl-cell--3-col mdl-shadow--2dp team-card" style="background-color: rgb(4, 132, 244);">
+        <div class="mdl-cell mdl-cell--12-col mdl-card team-card__info">
+          <div class="mdl-card__title mdl-card--expand mdl-color-text--grey-800">
+            <img src="https://axiacore.com/static/img/icons/axiacore-color.svg" alt="">
+          </div>
+          <div class="mdl-card__actions mdl-card--border">
+            <a class="mdl-button mdl-button--colored mdl-js-button" href="#">axiacore.com</a>
+            <div class="mdl-layout-spacer"></div>
+            <i class="material-icons">launch</i>
+          </div>
+        </div>
+        <div class="mdl-cell mdl-cell--12-col mdl-list mdl-color--white">
+          <div class="mdl-list__item">
+            <span class="mdl-list__item-primary-content">
+              <img class="mdl-list__item-avatar" src="https://pbs.twimg.com/profile_images/509010899886043137/38d33_zu.jpeg" alt="">
+              <span>Santiago Feijoo</span>
+            </span>
+          </div>
+          <div class="mdl-list__item">
+            <span class="mdl-list__item-primary-content">
+              <img class="mdl-list__item-avatar" src="https://pbs.twimg.com/profile_images/533632948201738241/qVYQhfpt.jpeg" alt="">
+              <span>Camilo Nova</span>
+            </span>
+          </div>
+          <div class="mdl-list__item">
+            <span class="mdl-list__item-primary-content">
+              <img class="mdl-list__item-avatar" src="https://pbs.twimg.com/profile_images/690373072134770688/8bQPoB0n.jpg" alt="">
+              <span>Ivan Ramirez</span>
+            </span>
+          </div>
+          <div class="mdl-list__item">
+            <span class="mdl-list__item-primary-content">
+              <img class="mdl-list__item-avatar" src="https://pbs.twimg.com/profile_images/428714261775269889/xi51PuZN_400x400.jpeg" alt="">
+              <span>Pablo Vallejo</span>
+            </span>
+            <span class="mdl-list__item-secondary-content">
+            </span>
+          </div>
+          <div class="mdl-list__item">
+            <span class="mdl-list__item-primary-content">
+              <img class="mdl-list__item-avatar" src="https://avatars0.githubusercontent.com/u/4070833?v=3&s=460" alt="">
+              <span>Felipe Gonzales</span>
+            </span>
+            <span class="mdl-list__item-secondary-content">
+            </span>
+          </div>
+        </div>
+      </div>
+
+      <div class="mdl-person mdl-cell mdl-cell--8-col mdl-color--white mdl-shadow--4dp hide">
+        <div class="mdl-person__cover">
+          <img src="https://static.sched.org/a9/2691807/avatar.jpg.320x320px.jpg?119" alt="">
+        </div>
+      <div class="mdl-person__text">
+          <h3>Felipe Montoya</h3>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
