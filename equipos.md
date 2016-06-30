@@ -24,7 +24,7 @@ Para inscribirte debes listar el nombre de tu equipo y sus integrantes en este a
 * Camilo Nova - [@camilonova](https://twitter.com/camilonova)
 * Ivan Ramirez - [@ivancarrancho](https://twitter.com/ivancarrancho)
 * Pablo Vallejo - [@pablovallejo](https://github.com/pablovallejo)
-* Felipe Gonzales - @felipe3dfx
+* Felipe Gonzales - [@felipe3dfx] (https://twitter.com/Felipezul)
 
 
 ### [Anthropologic](http://anthropologic.co/)
