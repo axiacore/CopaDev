@@ -38,7 +38,7 @@ Para inscribirte debes listar el nombre de tu equipo y sus integrantes en este a
 * Daniel Naranjo - [@Bound3R](https://github.com/Bound3R)
 * ...
 
-### [Mi Águila](https://miaguila.com)
+### [Mi Águila](http://miaguila.com/)
 
 * Javier Mozo.
 * Jaime Pardo.
