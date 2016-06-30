@@ -27,7 +27,7 @@ Para inscribirte debes listar el nombre de tu equipo y sus integrantes en este a
 * Felipe Gonzales - @felipe3dfx
 
 
-### [EduNext](https://www.edunext.co/)
+### [eduNext](https://www.edunext.co/)
 
 * Juan Camilo Montoya - [@juancamilom](https://github.com/juancamilom)
 * Felipe Montoya - [@felipemontoya](https://github.com/felipemontoya)
