@@ -27,16 +27,22 @@ Para inscribirte debes listar el nombre de tu equipo y sus integrantes en este a
 * Felipe Gonzales - [@felipe3dfx] (https://twitter.com/Felipezul)
 
 
+### [eduNEXT](https://www.edunext.co/)
+
+* Juan Camilo Montoya - [@juancamilom](https://github.com/juancamilom)
+* Felipe Montoya - [@felipemontoya](https://github.com/felipemontoya)
+* Jhony Avella - [@jfavellar90](https://github.com/jfavellar90)
+* Daniel Naranjo - [@Bound3R](https://github.com/Bound3R)
+* Leonardo Quinones - [@laq](https://github.com/laq)
+* Diego Millan - [@diegomillan](https://github.com/diegomillan)
+* Pedro Rodriguez - [@aliendude](https://github.com/aliendude)
+
+
 ### [Anthropologic](http://anthropologic.co/)
 
 * Otto Nassar - [@ottonassar](https://twitter.com/ottonassar)
 * ...
 
-
-### [EduNext](https://www.edunext.co/)
-
-* Daniel Naranjo - [@Bound3R](https://github.com/Bound3R)
-* ...
 
 ### [Mi Águila](https://miaguila.com)
 
