@@ -95,3 +95,4 @@ Para inscribirte debes listar el nombre de tu equipo y sus integrantes en este a
 * Diego Amezquita
 * Oscar Arellano
 * Takeshi
+* Yamid Viloria - [yamidvo](https://github.com/yamidvo)
