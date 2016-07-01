@@ -38,12 +38,6 @@ Para inscribirte debes listar el nombre de tu equipo y sus integrantes en este a
 * Pedro Rodriguez - [@aliendude](https://github.com/aliendude)
 
 
-### [Anthropologic](http://anthropologic.co/)
-
-* Otto Nassar - [@ottonassar](https://twitter.com/ottonassar)
-* ...
-
-
 ### [Mi Águila](https://miaguila.com)
 
 * Javier Mozo.
