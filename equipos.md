@@ -50,6 +50,7 @@ Para inscribirte debes listar el nombre de tu equipo y sus integrantes en este a
 * Brandon Parra.
 * Andrés Buitrago.
 * Andrés Felipe Alfonso Martinez.
+* Julian Moreno.
 
 ### [Mi Águila](http://miaguila.com/)
 
