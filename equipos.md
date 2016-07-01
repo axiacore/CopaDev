@@ -50,6 +50,7 @@ Para inscribirte debes listar el nombre de tu equipo y sus integrantes en este a
 * Brandon Parra.
 * Andrés Buitrago.
 * Andrés Felipe Alfonso Martinez.
+* Julian Moreno. [@julianmoreno](https://github.com/julianmoreno)
 
 ### [Mi Águila](http://miaguila.com/)
 
@@ -58,6 +59,9 @@ Para inscribirte debes listar el nombre de tu equipo y sus integrantes en este a
 * Juan David Parra [@juanxme](https://github.com/juanxme)
 * Andrés Aldana [@andalm](https://github.com/andalm)
 * Juan Carlos Márquez [@jZombie](https://github.com/jZombie)
+* Andrew Fletcher
+* Bruno Ocampo
+* Andres Blumer
 
 ### [Lequar](http://lequar.com/)
 
