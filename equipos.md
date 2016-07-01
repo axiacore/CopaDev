@@ -58,3 +58,14 @@ Para inscribirte debes listar el nombre de tu equipo y sus integrantes en este a
 * Juan David Parra [@juanxme](https://github.com/juanxme)
 * Andrés Aldana [@andalm](https://github.com/andalm)
 * Juan Carlos Márquez [@jZombie](https://github.com/jZombie)
+
+### [Lequar](http://lequar.com/)
+
+* David Andres Acosta - [@davidaco79](https://twitter.com/davidaco79)
+* Camilo Arias González - [@soydevcag](https://twitter.com/SoyDevCag)
+* Steven Medina - [@stevenmedina](https://github.com/StevenMedina)
+* Sergio Andres Martinez - [@monkey2men](https://twitter.com/monkey2men)
+* Astrid Grosso Vargas - [@agrossoLEQUAR](https://twitter.com/agrossoLEQUAR)
+* Sebastian Chacon - [@wsebaschacon](https://twitter.com/wsebaschacon)
+* Pablo Aparicio - [@PabloAparicio19](https://twitter.com/PabloAparicio19)
+* Jose Luis Buitrago - [@jolbum](https://twitter.com/Jolbum)
