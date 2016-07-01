@@ -60,7 +60,7 @@ En la primera ronda (Fechas 1, 2 y 3) los 4 equipos de cada grupo se enfrentará
 
 ### Inscripción
 
-Para registrar tu equipo debes crear un **[pull request](https://help.github.com/articles/using-pull-requests/)** donde listes el nombre de tu equipo y los miembros en  **[equipos.md](https://github.com/eduNEXT/CopaDev/blob/gh-pages/equipos.md)**.
+Para registrar tu equipo debes crear un **[pull request](https://help.github.com/articles/using-pull-requests/)** donde listes el nombre de tu equipo y los miembros en  **[equipos.md](https://github.com/eduNEXT/CopaDev/blob/master/equipos.md)**.
 Cada equipo puede tener de 5 a 8 jugadores.
 
 
