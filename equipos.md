@@ -73,3 +73,15 @@ Para inscribirte debes listar el nombre de tu equipo y sus integrantes en este a
 * Sebastian Chacon - [@wsebaschacon](https://twitter.com/wsebaschacon)
 * Pablo Aparicio - [@PabloAparicio19](https://twitter.com/PabloAparicio19)
 * Jose Luis Buitrago - [@jolbum](https://twitter.com/Jolbum)
+
+
+### [rokk3rlabs](http://www.rokk3rlabs.com/)
+
+* Miguel Orjuela - [miguelorjuela](https://github.com/miguelorjuela)
+* Diego Ribero - [diegoribero](https://github.com/diegoribero)
+* Andrei Piza
+* Jhon Tovar
+* Brayan Tellez
+* Mauricio Pradilla
+* Simon Chamorro
+* Diego Santiesteban - [gato_developer](https://twitter.com/gato_developer)
