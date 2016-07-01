@@ -41,7 +41,7 @@ Para inscribirte debes listar el nombre de tu equipo y sus integrantes en este a
 * Pedro Rodriguez - [@aliendude](https://github.com/aliendude)
 
 
-### [Mi Águila](http://miaguila.com/)
+### [Vuela Seguro](http://miaguila.com/)
 
 * Javier Mozo.
 * Jaime Pardo.
@@ -49,5 +49,12 @@ Para inscribirte debes listar el nombre de tu equipo y sus integrantes en este a
 * Alexander Martinez.
 * Brandon Parra.
 * Andrés Buitrago.
-* Juan Carlos Martinez
 * Andrés Felipe Alfonso Martinez.
+
+### [Mi Águila](http://miaguila.com/)
+
+* Juan Carlos Martínez [@Draka](https://github.com/Draka)
+* Sebastián Osuna [@SebastianOsuna](https://github.com/SebastianOsuna)
+* Juan David Parra [@juanxme](https://github.com/juanxme)
+* Andrés Aldana [@andalm](https://github.com/andalm)
+* Juan Carlos Márquez [@jZombie](https://github.com/jZombie)
