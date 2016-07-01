@@ -25,6 +25,9 @@ Para inscribirte debes listar el nombre de tu equipo y sus integrantes en este a
 * Ivan Ramirez - [@ivancarrancho](https://twitter.com/ivancarrancho)
 * Pablo Vallejo - [@pablovallejo](https://github.com/pablovallejo)
 * Felipe Gonzales - [@felipe3dfx] (https://twitter.com/Felipezul)
+* Humberto Camacho
+* Nicolas Molina - [@nicobytes] (https://twitter.com/nicobytes)
+* Jairo Montenegro
 
 
 ### [eduNEXT](https://www.edunext.co/)
