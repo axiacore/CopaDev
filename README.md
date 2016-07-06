@@ -8,26 +8,26 @@ La duración del torneo es de 5 fechas, una fecha por semana. Los equipos estar�
 
 ### Calendario 🗓
 
-#### :bell: Fecha de inicio: 
+#### :bell: Fecha de inicio:
 
-* :point_right: Jueves 14 de Julio de 2016
+* :point_right: Jueves 21 de Julio de 2016
 
-#### :bell: Fecha limite de inscripción: 
+#### :bell: Fecha limite de inscripción:
 
-* :point_right: Martes 5 de Julio.
+* :point_right: Viernes 13 de Julio.
 
-#### :bell: Fecha limite de pago: 
+#### :bell: Fecha limite de pago:
 
-* :point_right: Viernes 8 de julio.
+* :point_right: Viernes 15 de julio.
 
 
-### Lista de fechas :date: 
+### Lista de fechas :date:
 
-* Fecha 1: 14 Julio 2016 
-* Fecha 2: 21 Julio 2016 
-* Fecha 3: 28 Julio 2016 
-* Fecha 4: 4 Agosto 2016 
-* Fecha 5: 11 Agosto 2016
+* Fecha 1: Jueves 21 Julio 2016
+* Fecha 2: Miercoles 27 Julio 2016
+* Fecha 3: Miercoles 3 Agosto 2016
+* Fecha 4: Miercoles 10 Agosto 2016
+* Fecha 5: Miercoles 17 Agosto 2016
 
 ### Grupos
 
