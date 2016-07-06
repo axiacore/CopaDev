@@ -14,11 +14,11 @@ La duración del torneo es de 5 fechas, una fecha por semana. Los equipos estar�
 
 #### :bell: Fecha limite de inscripción:
 
-* :point_right: Viernes 13 de Julio.
+* :point_right: Lunes 11 de Julio.
 
 #### :bell: Fecha limite de pago:
 
-* :point_right: Viernes 15 de julio.
+* :point_right: Miercoles 13 de julio.
 
 
 ### Lista de fechas :date:
