@@ -96,3 +96,14 @@ Para inscribirte debes listar el nombre de tu equipo y sus integrantes en este a
 * Oscar Arellano
 * Takeshi
 * Yamid Viloria - [yamidvo](https://github.com/yamidvo)
+
+### [VML](http://www.vml.com/)
+
+* Felipe Vilá - [felipevila](https://github.com/felipevila)
+* Jorge Enrique Santos
+* Kerlyn Mariño
+* Cristian Buelvas
+* Jackson Niño
+* Antonio López
+* Felipe Novoa
+* Camilo Vidal
