@@ -23,57 +23,79 @@ layout: default
         </a> -->
       </div>
 
-      <div class="mdl-cell mdl-cell--3-col mdl-shadow--2dp team-card" style="background-color: rgb(44, 172, 228);">
+      <div class="mdl-cell mdl-cell--top mdl-cell--3-col mdl-shadow--2dp team-card" style="background-color: rgb(44, 172, 228);">
         <div class="mdl-cell mdl-cell--12-col mdl-card team-card__info">
           <div class="mdl-card__title mdl-card--expand mdl-color-text--grey-800">
-            <img src="https://manage.edunext.co/static/images/logo.png" alt="">
+            <img src="{{ "/imgs/edunext_logo.jpg" | prepend: site.github.url }}" alt="eduNExt">
           </div>
           <div class="mdl-card__actions mdl-card--border">
-            <a class="mdl-button mdl-button--colored mdl-js-button" href="#">edunext.io</a>
+            <a class="mdl-button mdl-button--colored mdl-js-button" href="#">edunext</a>
             <div class="mdl-layout-spacer"></div>
-            <i class="material-icons">launch</i>
+            <a class="mdl-button mdl-button--colored mdl-js-button mdl-button--icon" href="#" target="_blank">
+              <i class="material-icons">launch</i>
+            </a>
           </div>
         </div>
         <div class="mdl-cell mdl-cell--12-col mdl-list mdl-color--white">
           <div class="mdl-list__item">
-            <span class="mdl-list__item-primary-content">
-              <img class="mdl-list__item-avatar" src="https://pbs.twimg.com/profile_images/679686090240987137/C8IqKgoF_400x400.jpg" alt="">
-              <span>Daniel Naranjo</span>
-            </span>
+            <div class="mdl-list__item-primary-content">
+              <a href="https://github.com/juancamilom" target="_blank">
+                <img class="mdl-list__item-avatar" src="https://avatars3.githubusercontent.com/u/4583648?v=3&s=40" alt="">
+                <span>Juan Camilo Montoya</span>
+              </a>
+            </div>
           </div>
           <div class="mdl-list__item">
-            <span class="mdl-list__item-primary-content">
-              <img class="mdl-list__item-avatar" src="https://lh4.googleusercontent.com/-5N3yUQuwFps/AAAAAAAAAAI/AAAAAAAAAAA/DhzmWofH9Wo/s128-c-k/photo.jpg" alt="">
-              <span>Felipe Montoya</span>
-            </span>
+            <div class="mdl-list__item-primary-content">
+              <a href="https://github.com/felipemontoya" target="_blank">
+                <img class="mdl-list__item-avatar" src="https://avatars2.githubusercontent.com/u/2816902?v=3&s=40" alt="">
+                <span>Felipe Montoya</span>
+              </a>
+            </div>
           </div>
           <div class="mdl-list__item">
-            <span class="mdl-list__item-primary-content">
-              <img class="mdl-list__item-avatar" src="" alt="">
-              <span>Jhony Avella</span>
-            </span>
+            <div class="mdl-list__item-primary-content">
+              <a href="https://github.com/Bound3R" target="_blank">
+                <img class="mdl-list__item-avatar" src="https://pbs.twimg.com/profile_images/679686090240987137/C8IqKgoF_bigger.jpg" alt="">
+                <span>Daniel Naranjo</span>
+              </a>
+            </div>
           </div>
           <div class="mdl-list__item">
-            <span class="mdl-list__item-primary-content">
-              <img class="mdl-list__item-avatar" src="" alt="">
-              <span>Leonardo Quinones</span>
-            </span>
+            <div class="mdl-list__item-primary-content">
+              <a href="https://github.com/jfavellar90" target="_blank">
+                <img class="mdl-list__item-avatar" src="https://avatars1.githubusercontent.com/u/15217219?v=3&s=40" alt="">
+                <span>Jhony Avella</span>
+              </a>
+            </div>
+          </div>
+          <div class="mdl-list__item">
+            <div class="mdl-list__item-primary-content">
+              <a href="https://github.com/laq" target="_blank">
+                <img class="mdl-list__item-avatar" src="https://avatars1.githubusercontent.com/u/1944223?v=3&s=40" alt="">
+                <span>Leonardo Quinones</span>
+              </a>
+            </div>
             <span class="mdl-list__item-secondary-content">
             </span>
           </div>
           <div class="mdl-list__item">
-            <span class="mdl-list__item-primary-content">
-              <img class="mdl-list__item-avatar" src="" alt="">
-              <span>Diego Millan</span>
-            </span>
+            <div class="mdl-list__item-primary-content">
+              <a href="https://github.com/diegomillan" target="_blank">
+                <img class="mdl-list__item-avatar" src="https://avatars1.githubusercontent.com/u/1813634?v=3&s=40" alt="">
+                <span>Diego Millan</span>
+              </a>
+            </div>
             <span class="mdl-list__item-secondary-content">
             </span>
           </div>
           <div class="mdl-list__item">
-            <span class="mdl-list__item-primary-content">
-              <img class="mdl-list__item-avatar" src="" alt="">
-              <span>Pedro Crash</span>
-            </span>
+            <div class="mdl-list__item-primary-content">
+              <a href="https://github.com/aliendude" target="_blank">
+                <img class="mdl-list__item-avatar" src="https://avatars3.githubusercontent.com/u/3497723?v=3&s=40" alt="">
+                <span>Pedro Rodriguez</span>
+              </a>
+            </div>
             <span class="mdl-list__item-secondary-content">
             </span>
           </div>
@@ -84,60 +106,502 @@ layout: default
       <div class="mdl-cell mdl-cell--3-col mdl-shadow--2dp team-card" style="background-color: rgb(4, 132, 244);">
         <div class="mdl-cell mdl-cell--12-col mdl-card team-card__info">
           <div class="mdl-card__title mdl-card--expand mdl-color-text--grey-800">
-            <img src="https://axiacore.com/static/img/icons/axiacore-color.svg" alt="">
+            <img src="{{ "/imgs/axiacore_logo.jpg" | prepend: site.github.url }}" alt="Axiacore">
           </div>
           <div class="mdl-card__actions mdl-card--border">
-            <a class="mdl-button mdl-button--colored mdl-js-button" href="#">axiacore.com</a>
+            <a class="mdl-button mdl-button--colored mdl-js-button" href="#">axiacore</a>
             <div class="mdl-layout-spacer"></div>
             <i class="material-icons">launch</i>
           </div>
         </div>
         <div class="mdl-cell mdl-cell--12-col mdl-list mdl-color--white">
           <div class="mdl-list__item">
-            <span class="mdl-list__item-primary-content">
-              <img class="mdl-list__item-avatar" src="https://pbs.twimg.com/profile_images/509010899886043137/38d33_zu.jpeg" alt="">
-              <span>Santiago Feijoo</span>
-            </span>
+            <div class="mdl-list__item-primary-content">
+              <a href="https://twitter.com/sanfeijoo" target="_blank">
+                <img class="mdl-list__item-avatar" src="https://pbs.twimg.com/profile_images/509010899886043137/38d33_zu.jpeg" alt="">
+                <span>Santiago Feijoo</span>
+              </a>
+            </div>
           </div>
           <div class="mdl-list__item">
-            <span class="mdl-list__item-primary-content">
-              <img class="mdl-list__item-avatar" src="https://pbs.twimg.com/profile_images/533632948201738241/qVYQhfpt.jpeg" alt="">
-              <span>Camilo Nova</span>
-            </span>
+            <div class="mdl-list__item-primary-content">
+              <a href="https://github.com/djara844" target="_blank">
+                <img class="mdl-list__item-avatar" src="https://avatars3.githubusercontent.com/u/13952396?v=3&s=40" alt="">
+                <span>Diego Jaramillo</span>
+              </a>
+            </div>
           </div>
           <div class="mdl-list__item">
-            <span class="mdl-list__item-primary-content">
-              <img class="mdl-list__item-avatar" src="https://pbs.twimg.com/profile_images/690373072134770688/8bQPoB0n.jpg" alt="">
-              <span>Ivan Ramirez</span>
-            </span>
+            <div class="mdl-list__item-primary-content">
+              <a href="https://twitter.com/ivancarrancho" target="_blank">
+                <img class="mdl-list__item-avatar" src="https://pbs.twimg.com/profile_images/690373072134770688/8bQPoB0n.jpg" alt="">
+                <span>Ivan Ramirez</span>
+              </a>
+            </div>
           </div>
           <div class="mdl-list__item">
-            <span class="mdl-list__item-primary-content">
-              <img class="mdl-list__item-avatar" src="https://pbs.twimg.com/profile_images/428714261775269889/xi51PuZN_400x400.jpeg" alt="">
-              <span>Pablo Vallejo</span>
-            </span>
-            <span class="mdl-list__item-secondary-content">
-            </span>
+            <div class="mdl-list__item-primary-content">
+              <a href="https://github.com/pablovallejo" target="_blank">
+                <img class="mdl-list__item-avatar" src="https://avatars3.githubusercontent.com/u/1751074?v=3&s=40" alt="">
+                <span>Pablo Vallejo</span>
+              </a>
+            </div>
           </div>
           <div class="mdl-list__item">
-            <span class="mdl-list__item-primary-content">
-              <img class="mdl-list__item-avatar" src="https://avatars0.githubusercontent.com/u/4070833?v=3&s=460" alt="">
-              <span>Felipe Gonzales</span>
-            </span>
-            <span class="mdl-list__item-secondary-content">
-            </span>
+            <div class="mdl-list__item-primary-content">
+              <a href="https://twitter.com/Felipezul" target="_blank">
+                <img class="mdl-list__item-avatar" src="https://pbs.twimg.com/profile_images/2850030713/1faca3af4ad8749069aef091b7930549_bigger.jpeg" alt="">
+                <span>Felipe Gonzales</span>
+              </a>
+            </div>
+          </div>
+          <div class="mdl-list__item">
+            <div class="mdl-list__item-primary-content">
+              <i class="mdl-list__item-avatar material-icons">account_circle</i>
+              <span>Humberto Camacho</span>
+            </div>
+          </div>
+          <div class="mdl-list__item">
+            <div class="mdl-list__item-primary-content">
+              <a href="https://twitter.com/nicobytesl" target="_blank">
+                <img class="mdl-list__item-avatar" src="https://pbs.twimg.com/profile_images/748488816814657537/7FI5Oq62_bigger.jpg" alt="">
+                <span>Nicolas Molina</span>
+              </a>
+            </div>
+          </div>
+          <div class="mdl-list__item">
+            <div class="mdl-list__item-primary-content">
+              <i class="mdl-list__item-avatar material-icons">account_circle</i>
+              <span>Jairo Montenegro</span>
+            </div>
           </div>
         </div>
       </div>
 
-      <div class="mdl-person mdl-cell mdl-cell--8-col mdl-color--white mdl-shadow--4dp hide">
-        <div class="mdl-person__cover">
-          <img src="https://static.sched.org/a9/2691807/avatar.jpg.320x320px.jpg?119" alt="">
+      <div class="mdl-cell mdl-cell--3-col mdl-shadow--2dp team-card" style="background-color: rgb(25, 25, 25);">
+        <div class="mdl-cell mdl-cell--12-col mdl-card team-card__info">
+          <div class="mdl-card__title mdl-card--expand mdl-color-text--grey-800">
+            <img src="{{ "/imgs/miaguila_logo.jpg" | prepend: site.github.url }}" alt="Vuela Seguro">
+          </div>
+          <div class="mdl-card__actions mdl-card--border">
+            <a class="mdl-button mdl-button--colored mdl-js-button" href="#">Vuela Seguro</a>
+            <div class="mdl-layout-spacer"></div>
+            <i class="material-icons">launch</i>
+          </div>
         </div>
-      <div class="mdl-person__text">
-          <h3>Felipe Montoya</h3>
+        <div class="mdl-cell mdl-cell--12-col mdl-list mdl-color--white">
+          <div class="mdl-list__item">
+            <div class="mdl-list__item-primary-content">
+              <i class="mdl-list__item-avatar material-icons">account_circle</i>
+              <span>Javier Mozo</span>
+            </div>
+          </div>
+          <div class="mdl-list__item">
+            <div class="mdl-list__item-primary-content">
+              <i class="mdl-list__item-avatar material-icons">account_circle</i>
+              <span>Jaime Pardo</span>
+            </div>
+          </div>
+          <div class="mdl-list__item">
+            <div class="mdl-list__item-primary-content">
+              <i class="mdl-list__item-avatar material-icons">account_circle</i>
+              <span>Jonathan Henriquez</span>
+            </div>
+          </div>
+          <div class="mdl-list__item">
+            <div class="mdl-list__item-primary-content">
+              <i class="mdl-list__item-avatar material-icons">account_circle</i>
+              <span>Alexander Martinez</span>
+            </div>
+          </div>
+          <div class="mdl-list__item">
+            <div class="mdl-list__item-primary-content">
+              <i class="mdl-list__item-avatar material-icons">account_circle</i>
+              <span>Brandon Parra</span>
+            </div>
+          </div>
+          <div class="mdl-list__item">
+            <div class="mdl-list__item-primary-content">
+              <i class="mdl-list__item-avatar material-icons">account_circle</i>
+              <span>Andrés Buitrago</span>
+            </div>
+          </div>
+          <div class="mdl-list__item">
+            <div class="mdl-list__item-primary-content">
+              <i class="mdl-list__item-avatar material-icons">account_circle</i>
+              <span>Andrés Felipe Alfonso Martinez</span>
+            </div>
+          </div>
+          <div class="mdl-list__item">
+            <div class="mdl-list__item-primary-content">
+              <a href="https://github.com/julianmoreno" target="_blank">
+                <img class="mdl-list__item-avatar" src="https://avatars2.githubusercontent.com/u/7087439?v=3&s=40" alt="">
+                <span>Julian Moreno</span>
+              </a>
+            </div>
+          </div>
         </div>
       </div>
+
+      <div class="mdl-cell mdl-cell--3-col mdl-shadow--2dp team-card" style="background-color: rgb(25, 25, 25);">
+        <div class="mdl-cell mdl-cell--12-col mdl-card team-card__info">
+          <div class="mdl-card__title mdl-card--expand mdl-color-text--grey-800">
+            <img src="{{ "/imgs/miaguila_logo.jpg" | prepend: site.github.url }}" alt="Mi Águila">
+          </div>
+          <div class="mdl-card__actions mdl-card--border">
+            <a class="mdl-button mdl-button--colored mdl-js-button" href="#">Mi Águila</a>
+            <div class="mdl-layout-spacer"></div>
+            <i class="material-icons">launch</i>
+          </div>
+        </div>
+        <div class="mdl-cell mdl-cell--12-col mdl-list mdl-color--white">
+          <div class="mdl-list__item">
+            <div class="mdl-list__item-primary-content">
+              <a href="https://github.com/Draka" target="_blank">
+                <img class="mdl-list__item-avatar" src="https://avatars0.githubusercontent.com/u/136398?v=3&s=40" alt="">
+                <span>Juan Carlos Martínez</span>
+              </a>
+            </div>
+          </div>
+          <div class="mdl-list__item">
+            <div class="mdl-list__item-primary-content">
+              <a href="https://github.com/SebastianOsuna" target="_blank">
+                <img class="mdl-list__item-avatar" src="https://avatars2.githubusercontent.com/u/3453726?v=3&s=40" alt="">
+                <span>Sebastián Osuna</span>
+              </a>
+            </div>
+          </div>
+          <div class="mdl-list__item">
+            <div class="mdl-list__item-primary-content">
+              <a href="https://github.com/juanxme" target="_blank">
+                <img class="mdl-list__item-avatar" src="https://avatars2.githubusercontent.com/u/661043?v=3&s=40" alt="">
+                <span>Juan David Parra</span>
+              </a>
+            </div>
+          </div>
+          <div class="mdl-list__item">
+            <div class="mdl-list__item-primary-content">
+              <a href="https://github.com/andalm" target="_blank">
+                <img class="mdl-list__item-avatar" src="https://avatars2.githubusercontent.com/u/1644662?v=3&s=40" alt="">
+                <span>Andrés Aldana</span>
+              </a>
+            </div>
+          </div>
+          <div class="mdl-list__item">
+            <div class="mdl-list__item-primary-content">
+              <a href="https://github.com/jZombie" target="_blank">
+                <img class="mdl-list__item-avatar" src="https://avatars1.githubusercontent.com/u/8808353?v=3&s=40" alt="">
+                <span>Juan Carlos Márquez</span>
+              </a>
+            </div>
+          </div>
+          <div class="mdl-list__item">
+            <div class="mdl-list__item-primary-content">
+              <i class="mdl-list__item-avatar material-icons">account_circle</i>
+              <span>Andrew Fletcher</span>
+            </div>
+          </div>
+          <div class="mdl-list__item">
+            <div class="mdl-list__item-primary-content">
+              <i class="mdl-list__item-avatar material-icons">account_circle</i>
+              <span>Bruno Ocampo</span>
+            </div>
+          </div>
+          <div class="mdl-list__item">
+            <div class="mdl-list__item-primary-content">
+              <i class="mdl-list__item-avatar material-icons">account_circle</i>
+              <span>Andres Blumer</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="mdl-cell mdl-cell--3-col mdl-shadow--2dp team-card" style="background-color: rgb(251, 175, 91);">
+        <div class="mdl-cell mdl-cell--12-col mdl-card team-card__info">
+          <div class="mdl-card__title mdl-card--expand mdl-color-text--grey-800">
+            <img src="{{ "/imgs/lequar_logo.jpg" | prepend: site.github.url }}" alt="Lequar">
+          </div>
+          <div class="mdl-card__actions mdl-card--border">
+            <a class="mdl-button mdl-button--colored mdl-js-button" href="#">Lequar</a>
+            <div class="mdl-layout-spacer"></div>
+            <i class="material-icons">launch</i>
+          </div>
+        </div>
+        <div class="mdl-cell mdl-cell--12-col mdl-list mdl-color--white">
+          <div class="mdl-list__item">
+            <div class="mdl-list__item-primary-content">
+              <a href="https://twitter.com/davidaco79" target="_blank">
+                <img class="mdl-list__item-avatar" src="https://pbs.twimg.com/profile_images/568742624929284096/lXtsnhNI_bigger.jpeg" alt="">
+                <span>David Andres Acosta</span>
+              </a>
+            </div>
+          </div>
+          <div class="mdl-list__item">
+            <div class="mdl-list__item-primary-content">
+              <a href="https://twitter.com/SoyDevCag" target="_blank">
+                <img class="mdl-list__item-avatar" src="https://pbs.twimg.com/profile_images/751443593437581312/KSB9XJ_g_bigger.jpg" alt="">
+                <span>Camilo Arias González</span>
+              </a>
+            </div>
+          </div>
+          <div class="mdl-list__item">
+            <div class="mdl-list__item-primary-content">
+              <a href="https://github.com/StevenMedina" target="_blank">
+                <img class="mdl-list__item-avatar" src="https://avatars1.githubusercontent.com/u/9811859?v=3&s=40" alt="">
+                <span>Steven Medina</span>
+              </a>
+            </div>
+          </div>
+          <div class="mdl-list__item">
+            <div class="mdl-list__item-primary-content">
+              <a href="https://twitter.com/monkey2men" target="_blank">
+                <img class="mdl-list__item-avatar" src="https://pbs.twimg.com/profile_images/583020541675720705/T4bpnwbv_bigger.png" alt="">
+                <span>Sergio Andres Martinez</span>
+              </a>
+            </div>
+          </div>
+          <div class="mdl-list__item">
+            <div class="mdl-list__item-primary-content">
+              <a href="https://twitter.com/agrossoLEQUAR" target="_blank">
+                <img class="mdl-list__item-avatar" src="https://abs.twimg.com/sticky/default_profile_images/default_profile_4_bigger.png" alt="">
+                <span>Astrid Grosso Vargas</span>
+              </a>
+            </div>
+          </div>
+          <div class="mdl-list__item">
+            <div class="mdl-list__item-primary-content">
+              <a href="https://twitter.com/wsebaschacon" target="_blank">
+                <img class="mdl-list__item-avatar" src="https://pbs.twimg.com/profile_images/574212560657903616/CAv2NU9m_bigger.jpeg" alt="">
+                <span>Sebastian Chacon</span>
+              </a>
+            </div>
+          </div>
+          <div class="mdl-list__item">
+            <div class="mdl-list__item-primary-content">
+              <a href="https://twitter.com/PabloAparicio19" target="_blank">
+                <img class="mdl-list__item-avatar" src="https://pbs.twimg.com/profile_images/606641038258765825/uz-FXh2Z_bigger.jpg" alt="">
+                <span>Pablo Aparicio</span>
+              </a>
+            </div>
+          </div>
+          <div class="mdl-list__item">
+            <div class="mdl-list__item-primary-content">
+              <a href="https://twitter.com/Jolbum" target="_blank">
+                <img class="mdl-list__item-avatar" src="https://pbs.twimg.com/profile_images/635128114641793028/8WtZKqBH_bigger.jpg" alt="">
+                <span>Jose Luis Buitrago</span>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="mdl-cell mdl-cell--3-col mdl-shadow--2dp team-card" style="background-color: rgb(238, 70, 47);">
+        <div class="mdl-cell mdl-cell--12-col mdl-card team-card__info">
+          <div class="mdl-card__title mdl-card--expand mdl-color-text--grey-800">
+            <img src="{{ "/imgs/rokkerlabs_logo.jpg" | prepend: site.github.url }}" alt="rokk3rlabs">
+          </div>
+          <div class="mdl-card__actions mdl-card--border">
+            <a class="mdl-button mdl-button--colored mdl-js-button" href="#">rokk3rlabs</a>
+            <div class="mdl-layout-spacer"></div>
+            <i class="material-icons">launch</i>
+          </div>
+        </div>
+        <div class="mdl-cell mdl-cell--12-col mdl-list mdl-color--white">
+          <div class="mdl-list__item">
+            <div class="mdl-list__item-primary-content">
+              <a href="https://github.com/miguelorjuela" target="_blank">
+                <img class="mdl-list__item-avatar" src="https://avatars2.githubusercontent.com/u/12238034?v=3&s=40" alt="">
+                <span>Miguel Orjuela</span>
+              </a>
+            </div>
+          </div>
+          <div class="mdl-list__item">
+            <div class="mdl-list__item-primary-content">
+              <a href="https://github.com/diegoribero" target="_blank">
+                <img class="mdl-list__item-avatar" src="https://avatars1.githubusercontent.com/u/11444484?v=3&s=40" alt="">
+                <span>Diego Ribero</span>
+              </a>
+            </div>
+          </div>
+          <div class="mdl-list__item">
+            <div class="mdl-list__item-primary-content">
+              <i class="mdl-list__item-avatar material-icons">account_circle</i>
+              <span>Andrei Piza</span>
+            </div>
+          </div>
+          <div class="mdl-list__item">
+            <div class="mdl-list__item-primary-content">
+              <i class="mdl-list__item-avatar material-icons">account_circle</i>
+              <span>Jhon Tovar</span>
+            </div>
+          </div>
+          <div class="mdl-list__item">
+            <div class="mdl-list__item-primary-content">
+              <i class="mdl-list__item-avatar material-icons">account_circle</i>
+              <span>Brayan Tellez</span>
+            </div>
+          </div>
+          <div class="mdl-list__item">
+            <div class="mdl-list__item-primary-content">
+              <i class="mdl-list__item-avatar material-icons">account_circle</i>
+              <span>Mauricio Pradilla</span>
+            </div>
+          </div>
+          <div class="mdl-list__item">
+            <div class="mdl-list__item-primary-content">
+              <i class="mdl-list__item-avatar material-icons">account_circle</i>
+              <span>Simon Chamorro</span>
+            </div>
+          </div>
+          <div class="mdl-list__item">
+            <div class="mdl-list__item-primary-content">
+              <a href="https://twitter.com/gato_developer" target="_blank">
+                <img class="mdl-list__item-avatar" src="https://pbs.twimg.com/profile_images/604504385322930177/GN7P84A4_bigger.jpg" alt="">
+                <span>Diego Santiesteban</span>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="mdl-cell mdl-cell--3-col mdl-shadow--2dp team-card" style="background-color: rgb(51, 162, 114);">
+        <div class="mdl-cell mdl-cell--12-col mdl-card team-card__info">
+          <div class="mdl-card__title mdl-card--expand mdl-color-text--grey-800">
+            <img src="{{ "/imgs/grability_logo.jpg" | prepend: site.github.url }}" alt="Grability">
+          </div>
+          <div class="mdl-card__actions mdl-card--border">
+            <a class="mdl-button mdl-button--colored mdl-js-button" href="#">Grability</a>
+            <div class="mdl-layout-spacer"></div>
+            <i class="material-icons">launch</i>
+          </div>
+        </div>
+        <div class="mdl-cell mdl-cell--12-col mdl-list mdl-color--white">
+          <div class="mdl-list__item">
+            <div class="mdl-list__item-primary-content">
+              <a href="https://github.com/fabiel016" target="_blank">
+                <img class="mdl-list__item-avatar" src="https://avatars1.githubusercontent.com/u/4743259?v=3&s=40" alt="">
+                <span>Fabiel Casas</span>
+              </a>
+            </div>
+          </div>
+          <div class="mdl-list__item">
+            <div class="mdl-list__item-primary-content">
+              <a href="https://github.com/juanedsa" target="_blank">
+                <img class="mdl-list__item-avatar" src="https://avatars2.githubusercontent.com/u/5041837?v=3&s=40" alt="">
+                <span>Juan Salazar</span>
+              </a>
+            </div>
+          </div>
+          <div class="mdl-list__item">
+            <div class="mdl-list__item-primary-content">
+              <a href="https://github.com/Henry1988" target="_blank">
+                <img class="mdl-list__item-avatar" src="https://avatars3.githubusercontent.com/u/1892186?v=3&s=40" alt="">
+                <span>Henry Martines</span>
+              </a>
+            </div>
+          </div>
+          <div class="mdl-list__item">
+            <div class="mdl-list__item-primary-content">
+              <a href="https://github.com/tebitoq" target="_blank">
+                <img class="mdl-list__item-avatar" src="https://avatars2.githubusercontent.com/u/1514801?v=3&s=40" alt="">
+                <span>Esteban</span>
+              </a>
+            </div>
+          </div>
+          <div class="mdl-list__item">
+            <div class="mdl-list__item-primary-content">
+              <i class="mdl-list__item-avatar material-icons">account_circle</i>
+              <span>Diego Amezquita</span>
+            </div>
+          </div>
+          <div class="mdl-list__item">
+            <div class="mdl-list__item-primary-content">
+              <i class="mdl-list__item-avatar material-icons">account_circle</i>
+              <span>Oscar Arellano</span>
+            </div>
+          </div>
+          <div class="mdl-list__item">
+            <div class="mdl-list__item-primary-content">
+              <i class="mdl-list__item-avatar material-icons">account_circle</i>
+              <span>Takeshi</span>
+            </div>
+          </div>
+          <div class="mdl-list__item">
+            <div class="mdl-list__item-primary-content">
+              <a href="https://github.com/yamidvo" target="_blank">
+                <img class="mdl-list__item-avatar" src="https://avatars3.githubusercontent.com/u/4690524?v=3&s=40" alt="">
+                <span>Yamid Viloria</span>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="mdl-cell mdl-cell--3-col mdl-shadow--2dp team-card" style="background-color: rgb(35, 159, 196);">
+        <div class="mdl-cell mdl-cell--12-col mdl-card team-card__info">
+          <div class="mdl-card__title mdl-card--expand mdl-color-text--grey-800">
+            <img src="{{ "/imgs/vml_logo.jpg" | prepend: site.github.url }}" alt="VML">
+          </div>
+          <div class="mdl-card__actions mdl-card--border">
+            <a class="mdl-button mdl-button--colored mdl-js-button" href="#">VML</a>
+            <div class="mdl-layout-spacer"></div>
+            <i class="material-icons">launch</i>
+          </div>
+        </div>
+        <div class="mdl-cell mdl-cell--12-col mdl-list mdl-color--white">
+          <div class="mdl-list__item">
+            <div class="mdl-list__item-primary-content">
+              <a href="https://github.com/felipevila" target="_blank">
+                <img class="mdl-list__item-avatar" src="https://avatars2.githubusercontent.com/u/7087439?v=3&s=40" alt="">
+                <span>Felipe Vilá</span>
+              </a>
+            </div>
+          </div>
+          <div class="mdl-list__item">
+            <div class="mdl-list__item-primary-content">
+              <i class="mdl-list__item-avatar material-icons">account_circle</i>
+              <span>Jorge Enrique Santos</span>
+            </div>
+          </div>
+          <div class="mdl-list__item">
+            <div class="mdl-list__item-primary-content">
+              <i class="mdl-list__item-avatar material-icons">account_circle</i>
+              <span>Kerlyn Mariño</span>
+            </div>
+          </div>
+          <div class="mdl-list__item">
+            <div class="mdl-list__item-primary-content">
+              <i class="mdl-list__item-avatar material-icons">account_circle</i>
+              <span>Cristian Buelvas</span>
+            </div>
+          </div>
+          <div class="mdl-list__item">
+            <div class="mdl-list__item-primary-content">
+              <i class="mdl-list__item-avatar material-icons">account_circle</i>
+              <span>Jackson Niño</span>
+            </div>
+          </div>
+          <div class="mdl-list__item">
+            <div class="mdl-list__item-primary-content">
+              <i class="mdl-list__item-avatar material-icons">account_circle</i>
+              <span>Antonio López</span>
+            </div>
+          </div>
+          <div class="mdl-list__item">
+            <div class="mdl-list__item-primary-content">
+              <i class="mdl-list__item-avatar material-icons">account_circle</i>
+              <span>Felipe Novoa</span>
+            </div>
+          </div>
+          <div class="mdl-list__item">
+            <div class="mdl-list__item-primary-content">
+              <i class="mdl-list__item-avatar material-icons">account_circle</i>
+              <span>Camilo Vidal</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
     </div>
   </div>
 </main>

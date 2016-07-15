@@ -137,11 +137,22 @@
 
     &__title {
       flex-wrap: wrap;
-      font-size: 12px;
+      justify-content: center;
 
       img {
         max-width: 100%;
       }
+    }
+  }
+  &-list__item {
+    &-primary-content a {
+      color: rgba(0,0,0,.87);
+      &:hover {
+        text-decoration: none;
+      }
+    }
+    &-avatar.material-icons {
+      vertical-align: middle
     }
   }
 }
