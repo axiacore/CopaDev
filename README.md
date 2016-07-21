@@ -10,7 +10,7 @@ La duración del torneo es de 5 semanas. Los equipos estarán divididos en dos g
 
 #### :bell: Fecha de inicio: 
 
-* :point_right: Jueves 27 de Julio de 2016
+* :point_right: Jueves 28 de Julio de 2016
 
 #### :bell: Fecha limite de inscripción: 
 
@@ -27,7 +27,7 @@ La duración del torneo es de 5 semanas. Los equipos estarán divididos en dos g
 * Miércoles 3 de agosto de 2016 
 * Miércoles 10 de agosto de 2016 
 * Miércoles 17 de agosto de 2016 
-* Miércoles 27 de agosto de 2016
+* Miércoles 24 de agosto de 2016
 
 
 ### Inscripción
@@ -104,14 +104,14 @@ Las inscripciones para la primera versión de la CopaDev están **cerradas**. El
 
 ### Tercer puesto
 
-#### Fecha 5: Miércoles 27 de agosto de 2016  
+#### Fecha 5: Miércoles 24 de agosto de 2016  
 | Hora     | Equipo 1                     |   |   | Equipo 2                     |
 |:---------|:-----------------------------|:-:|:-:|:-----------------------------|
 | 6:30 PM  | Perdedor partido 13          | - | - | Perdedor partido 14          |
 
 ### Final
 
-#### Fecha 5: Miércoles 27 de agosto de 2016  
+#### Fecha 5: Miércoles 24 de agosto de 2016  
 | Hora     | Equipo 1                     |   |   | Equipo 2                     |
 |:---------|:-----------------------------|:-:|:-:|:-----------------------------|
 | 7:30 PM  | Ganador partido 13           | - | - | Ganador partido 14           |
