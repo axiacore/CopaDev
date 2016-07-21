@@ -73,47 +73,47 @@ Las inscripciones para la primera versión de la CopaDev están **cerradas**. El
 #### Fecha 1 - Jueves 28 de julio de 2016
 | Hora     | Equipo 1       |   |   | Equipo 2       |
 |:---------|:---------------|:-:|:-:|:---------------|
-| 7:00 PM  | Equipo A       | - | - | Equipo B       |
-| 7:00 PM  | Equipo E       | - | - | Equipo F       |
-| 8:00 PM  | Equipo C       | - | - | Equipo D       |
-| 8:00 PM  | Equipo G       | - | - | Equipo H       |
+| 6:30 PM  | Equipo A       | - | - | Equipo B       |
+| 6:30 PM  | Equipo E       | - | - | Equipo F       |
+| 7:30 PM  | Equipo C       | - | - | Equipo D       |
+| 7:30 PM  | Equipo G       | - | - | Equipo H       |
 
 #### Fecha 2 - Miércoles 3 de agosto de 2016
 | Hora     | Equipo 1       |   |   | Equipo 2       |
 |:---------|:---------------|:-:|:-:|:---------------|
-| 7:00 PM  | Equipo B       | - | - | Equipo D       |
-| 7:00 PM  | Equipo F       | - | - | Equipo H       |
-| 8:00 PM  | Equipo A       | - | - | Equipo C       |
-| 8:00 PM  | Equipo E       | - | - | Equipo G       |
+| 6:30 PM  | Equipo B       | - | - | Equipo D       |
+| 6:30 PM  | Equipo F       | - | - | Equipo H       |
+| 7:30 PM  | Equipo A       | - | - | Equipo C       |
+| 7:30 PM  | Equipo E       | - | - | Equipo G       |
 
 #### Fecha 3 - Miércoles 10 de agosto de 2016 
 | Hora     | Equipo 1       |   |   | Equipo 2       |
 |:---------|:---------------|:-:|:-:|:---------------|
-| 7:00 PM  | Equipo D       | - | - | Equipo A       |
-| 7:00 PM  | Equipo H       | - | - | Equipo E       |
-| 8:00 PM  | Equipo B       | - | - | Equipo C       |
-| 8:00 PM  | Equipo F       | - | - | Equipo G       |
+| 6:30 PM  | Equipo D       | - | - | Equipo A       |
+| 6:30 PM  | Equipo H       | - | - | Equipo E       |
+| 7:30 PM  | Equipo B       | - | - | Equipo C       |
+| 7:30 PM  | Equipo F       | - | - | Equipo G       |
 
 ### Semifinales
 
 #### Fecha 4: Miércoles 17 de agosto de 2016  
 | Hora     | Equipo 1                     |   |   | Equipo 2                     |
 |:---------|:-----------------------------|:-:|:-:|:-----------------------------|
-| 8:00 PM  | Primer puesto grupo A        | - | - | Segundo puesto grupo B       |
-| 8:00 PM  | Primer puesto grupo B        | - | - | Segundo puesto grupo A       |
+| 7:30 PM  | Primer puesto grupo A        | - | - | Segundo puesto grupo B       |
+| 7:30 PM  | Primer puesto grupo B        | - | - | Segundo puesto grupo A       |
 
 ### Tercer puesto
 
 #### Fecha 5: Miércoles 27 de agosto de 2016  
 | Hora     | Equipo 1                     |   |   | Equipo 2                     |
 |:---------|:-----------------------------|:-:|:-:|:-----------------------------|
-| 7:00 PM  | Perdedor partido 13          | - | - | Perdedor partido 14          |
+| 6:30 PM  | Perdedor partido 13          | - | - | Perdedor partido 14          |
 
 ### Final
 
 #### Fecha 5: Miércoles 27 de agosto de 2016  
 | Hora     | Equipo 1                     |   |   | Equipo 2                     |
 |:---------|:-----------------------------|:-:|:-:|:-----------------------------|
-| 8:00 PM  | Ganador partido 13           | - | - | Ganador partido 14           |
+| 7:30 PM  | Ganador partido 13           | - | - | Ganador partido 14           |
 
 
