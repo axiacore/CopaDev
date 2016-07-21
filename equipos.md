@@ -58,10 +58,10 @@ Para inscribirte debes listar el nombre de tu equipo y sus integrantes en este a
 * Sebastián Osuna [@SebastianOsuna](https://github.com/SebastianOsuna)
 * Juan David Parra [@juanxme](https://github.com/juanxme)
 * Andrés Aldana [@andalm](https://github.com/andalm)
+* Carlos Goyeneche [@Goye](https://github.com/Goye)
 * Juan Carlos Márquez [@jZombie](https://github.com/jZombie)
 * Andrew Fletcher
 * Bruno Ocampo
-* Andres Blumer
 
 ### [Lequar](http://lequar.com/)
 
