@@ -103,7 +103,7 @@ Para inscribirte debes listar el nombre de tu equipo y sus integrantes en este a
 * Jorge Enrique Santos
 * Kerlyn Mariño
 * Cristian Buelvas
-* Jackson Niño
+* Carlos Espinosa
 * Antonio López
 * Felipe Novoa
 * Camilo Vidal
