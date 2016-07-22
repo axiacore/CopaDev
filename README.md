@@ -47,8 +47,7 @@ Cada equipo puede tener de 5 a 8 jugadores.
 Las inscripciones para la primera versión de la CopaDev están **cerradas**. El torneo incia el **Jueves 28 de julio de 2016**. Con los siguientes equipos:
 
 ###Sorteo de equipos
-[![Sorteo de equipos CopaDev v1.0](http://img.youtube.com/vi/EZBQIZZ_Zu0-Y/0.jpg)](https://youtu.be/EZBQIZZ_Zu0 "Sorteo de equipos CopaDev v1.0")
-
+[![Sorteo de equipos CopaDev v1.0](https://img.youtube.com/vi/EZBQIZZ_Zu0/0.jpg)](https://www.youtube.com/watch?v=EZBQIZZ_Zu0)
 
 
 ### Grupos
