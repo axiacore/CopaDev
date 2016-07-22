@@ -1,4 +1,4 @@
-# CopaDev Bogota
+# CopaDev v1.0 -  Bogota
 
 La **CopaDev** es un torneo de Fútbol 5 para empresas que hacen software del bueno ;).
 
