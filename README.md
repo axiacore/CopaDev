@@ -40,6 +40,14 @@ Cada equipo puede tener de 5 a 8 jugadores.
 
 * Los equipos deben tener como máximo 8 jugadores (5 jugando y 3 en banca).
 * Solo pueden jugar las personas que se encuentren inscritas en cada equipo.
+* No usar guayos
+* No se cobran las tarjetas
+* El balón toca la malla superior se cobra saque  lateral
+* Si los uniformes se parecen, se usarán petos.
+* El partido empieza a la hora en punto así los equipos no estén completos(motivos de alquier de las canchas )
+* Cualquier conducta antideportiva, el jugador se retira del partido (cambio obligatorio)
+* Hasta el día del inicio del torneo se permiten registrar o cambiar jugadores, después no se podrá.
+
 
 
 ----------------------------------------------------------------------------------------------------------------------------
@@ -61,7 +69,7 @@ Las inscripciones para la primera versión de la CopaDev están **cerradas**. El
 |4| Axiacore      | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
 
 #### Grupo B
-|               | Pts | PG  | PE  | PP  | GF  | GC  | DF  |
+| Equipos       | Pts | PG  | PE  | PP  | GF  | GC  | DF  |
 | --------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1| VML         | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
 |2| Lequar      | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
