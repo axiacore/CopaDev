@@ -122,3 +122,5 @@ Las inscripciones para la primera versión de la CopaDev están **cerradas**. El
 Lugar donde jugaremos el torneo.<br/>
 Nombre: Soccer 147 - Al frete del éxito de colina (pasando la boyacá)<br/>
 Dirección: Calle 147 # 72 - 35 - <a href="https://www.google.com.co/maps/@4.7360617,-74.0665492,3a,75y,290.16h,86.02t/data=!3m6!1e1!3m4!1sqzVGvS6vRedp7MvC6crV9A!2e0!7i13312!8i6656!6m1!1e1" target="_blank">Ver mapa</a>
+
+![](https://s3.amazonaws.com/uploads.hipchat.com/50553/1957220/Xv4Blf7m0SFksLU/foto-lugar.jpeg)
