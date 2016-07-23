@@ -90,7 +90,7 @@ Para inscribirte debes listar el nombre de tu equipo y sus integrantes en este a
 
 * Fabiel Casas - [fabiel016](https://github.com/fabiel016)
 * Juan Salazar - [juanedsa](https://github.com/juanedsa)
-* Henry Martines - [Henry1988](https://github.com/Henry1988)
+* Jonathan Pacheco
 * Esteban - [tebitoq](https://github.com/tebitoq)
 * Diego Amezquita
 * Oscar Arellano
