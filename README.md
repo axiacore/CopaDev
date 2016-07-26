@@ -47,6 +47,15 @@ Cada equipo puede tener de 5 a 8 jugadores.
 * El partido empieza a la hora en punto así los equipos no estén completos(motivos de alquier de las canchas )
 * Cualquier conducta antideportiva, el jugador se retira del partido (cambio obligatorio)
 * Hasta el día del inicio del torneo se permiten registrar o cambiar jugadores, después no se podrá.
+* El portero podra salir en su totalidad.
+* El saque de banda se realizara con las manos. 
+* No existira la devolución hacia el portero,  el jugador podra devolver el balón a su portero cuantas veces quiera. 
+* Existira tarjero roja y amarilla. 
+* El saque del arquero sera con la mano desde su area correspondiente. 
+* Se jugaran dos tiempos de 22 minutos con 5 minutos de descanso. 
+* El minimo de jugadores para iniciar el partido seran de 4 jugadores.
+* El saque del arquero puede pasar de la mitad.
+* Y el córner se cobra con la mano igual que los laterales.
 
 
 
