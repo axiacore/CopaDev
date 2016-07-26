@@ -54,8 +54,8 @@ Cada equipo puede tener de 5 a 8 jugadores.
 * El saque del arquero sera con la mano desde su area correspondiente. 
 * Se jugaran dos tiempos de 22 minutos con 5 minutos de descanso. 
 * El minimo de jugadores para iniciar el partido seran de 4 jugadores.
-* El saque del arquero puede pasar de la mitad.
-* Y el córner se cobra con la mano igual que los laterales.
+* El saque del arquero puede pasar de la mitad.
+* Y el córner se cobra con la mano igual que los laterales.
 
 
 
