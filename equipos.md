@@ -39,6 +39,8 @@ Para inscribirte debes listar el nombre de tu equipo y sus integrantes en este a
 * Leonardo Quinones - [@laq](https://github.com/laq)
 * Diego Millan - [@diegomillan](https://github.com/diegomillan)
 * Pedro Rodriguez - [@aliendude](https://github.com/aliendude)
+* Diego Mancilla.
+* Sergio Camargo.
 
 
 ### [Vuela Seguro](http://miaguila.com/)
