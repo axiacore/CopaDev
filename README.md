@@ -101,18 +101,18 @@ Las inscripciones para la primera versión de la CopaDev están **cerradas**. El
 #### Fecha 2 - Miércoles 3 de agosto de 2016
 | Hora     | Equipo 1     |   |   | Equipo 2       |
 |:---------|:-------------|:-:|:-:|:---------------|
-| 7:00 PM  | Mi Aguila     | - | - | Axiacore      |
-| 7:00 PM  | Lequar        | - | - | Grability     |
-| 8:00 PM  | Vuela Seguro  | - | - | Rokk3rlabs    |
-| 8:00 PM  | VML           | - | - | EduNext       |
+| 8:00 PM  | Mi Aguila     | - | - | Axiacore      |
+| 8:00 PM  | Lequar        | - | - | Grability     |
+| 9:00 PM  | Vuela Seguro  | - | - | Rokk3rlabs    |
+| 9:00 PM  | VML           | - | - | EduNext       |
 
 #### Fecha 3 - Miércoles 10 de agosto de 2016
 | Hora     | Equipo 1     |   |   | Equipo 2       |
 |:---------|:-------------|:-:|:-:|:---------------|
-| 7:00 PM  | Axiacore      | - | - | Vuela Seguro  |
-| 7:00 PM  | Grability     | - | - | VML           |
-| 8:00 PM  | Mi Aguila     | - | - | Rokk3rlabs    |
-| 8:00 PM  | Lequar        | - | - | EduNext       |
+| 8:00 PM  | Axiacore      | - | - | Vuela Seguro  |
+| 8:00 PM  | Grability     | - | - | VML           |
+| 9:00 PM  | Mi Aguila     | - | - | Rokk3rlabs    |
+| 9:00 PM  | Lequar        | - | - | EduNext       |
 
 ### Semifinales
 
@@ -127,14 +127,14 @@ Las inscripciones para la primera versión de la CopaDev están **cerradas**. El
 #### Fecha 5: Miércoles 24 de agosto de 2016
 | Hora     | Equipo 1                     |   |   | Equipo 2                     |
 |:---------|:-----------------------------|:-:|:-:|:-----------------------------|
-| 7:00 PM  | Perdedor partido 13          | - | - | Perdedor partido 14          |
+| 8:00 PM  | Perdedor partido 13          | - | - | Perdedor partido 14          |
 
 ### Final
 
 #### Fecha 5: Miércoles 24 de agosto de 2016
 | Hora     | Equipo 1                     |   |   | Equipo 2                     |
 |:---------|:-----------------------------|:-:|:-:|:-----------------------------|
-| 8:00 PM  | Ganador partido 13           | - | - | Ganador partido 14           |
+| 9:00 PM  | Ganador partido 13           | - | - | Ganador partido 14           |
 
 
 ### Sede
