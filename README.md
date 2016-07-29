@@ -72,18 +72,18 @@ Las inscripciones para la primera versión de la CopaDev están **cerradas**. El
 #### Grupo A
 |Pos | Equipos        | Pts | PG  | PE  | PP  | GF  | GC  | DF  |
 |----|:---------------|:---:| :--:|:---:|:---:|:---:|:---:|:---:|
-|1   | Vuela Seguro   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
-|2   | Mi Aguila      | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
-|3   | Rokk3rlabs     | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
-|4   | Axiacore       | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
+|1   | Rokk3rlabs     | 3   | 1   | 0   | 0   | 11  | 7   | 4   |
+|2   | Vuela Seguro   | 3   | 1   | 0   | 0   | 8   | 5   | 3   |
+|3   | Mi Aguila      | 0   | 0   | 0   | 1   | 5   | 8   | -3   |
+|4   | Axiacore       | 0   | 0   | 0   | 1   | 7   | 11  | -4   |
 
 #### Grupo B
 |Pos |Equipos       | Pts | PG  | PE  | PP  | GF  | GC  | DF  |
 |----| :------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|1   | VML          | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
-|2   | Lequar       | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
-|3   | EduNext      | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
-|4   | Grability    | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
+|1   | VML          | 3   | 1   | 0   | 0   | 12  | 2   | 10   |
+|2   | Grability    | 3   | 1   | 0   | 0   | 4   | 3   | 1   |
+|3   | EduNext      | 0   | 0   | 0   | 1   | 3   | 4   | -1   |
+|4   | Lequar       | 0   | 0   | 0   | 1   | 2   | 12  | -10   |
 
 
 ### Fechas
@@ -93,10 +93,10 @@ Las inscripciones para la primera versión de la CopaDev están **cerradas**. El
 #### Fecha 1 - Jueves 28 de julio de 2016
 | Hora     | Equipo 1     |   |   | Equipo 2       |
 |:---------|:-------------|:-:|:-:|:---------------|
-| 7:00 PM  | Vuela Seguro  | - | - | Mi Aguila     |
-| 7:00 PM  | VML           | - | - | Lequar        |
-| 8:00 PM  | Rokk3rlabs    | - | - | Axiacore      |
-| 8:00 PM  | EduNext       | - | - | Grability     |
+| 7:00 PM  | Vuela Seguro  | 8 | 5 | Mi Aguila     |
+| 7:00 PM  | VML           | 12 | 2 | Lequar        |
+| 8:00 PM  | Rokk3rlabs    | 11 | 7 | Axiacore      |
+| 8:00 PM  | EduNext       | 3 | 4 | Grability     |
 
 #### Fecha 2 - Miércoles 3 de agosto de 2016
 | Hora     | Equipo 1     |   |   | Equipo 2       |
