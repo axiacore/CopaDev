@@ -70,20 +70,20 @@ Las inscripciones para la primera versión de la CopaDev están **cerradas**. El
 ### Grupos
 
 #### Grupo A
-| Equipos         | Pts | PG  | PE  | PP  | GF  | GC  | DF  |
-| :---------------|:---:| :--:|:---:|:---:|:---:|:---:|:---:|
-|1| Vuela Seguro  | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
-|2| Mi Aguila     | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
-|3| Rokk3rlabs    | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
-|4| Axiacore      | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
+|Pos | Equipos        | Pts | PG  | PE  | PP  | GF  | GC  | DF  |
+|----|:---------------|:---:| :--:|:---:|:---:|:---:|:---:|:---:|
+|1   | Vuela Seguro   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
+|2   | Mi Aguila      | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
+|3   | Rokk3rlabs     | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
+|4   | Axiacore       | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
 
 #### Grupo B
-| Equipos       | Pts | PG  | PE  | PP  | GF  | GC  | DF  |
-| :-------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|1| VML         | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
-|2| Lequar      | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
-|3| EduNext     | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
-|4| Grability   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
+|Pos |Equipos       | Pts | PG  | PE  | PP  | GF  | GC  | DF  |
+|----| :------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|1   | VML          | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
+|2   | Lequar       | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
+|3   | EduNext      | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
+|4   | Grability    | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
 
 
 ### Fechas
