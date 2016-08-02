@@ -48,11 +48,11 @@ Cada equipo puede tener de 5 a 8 jugadores.
 * Cualquier conducta antideportiva, el jugador se retira del partido (cambio obligatorio)
 * Hasta el día del inicio del torneo se permiten registrar o cambiar jugadores, después no se podrá.
 * El portero podra salir en su totalidad.
-* El saque de banda se realizara con las manos. 
-* No existira la devolución hacia el portero,  el jugador podra devolver el balón a su portero cuantas veces quiera. 
-* Existira tarjero roja y amarilla. 
-* El saque del arquero sera con la mano desde su area correspondiente. 
-* Se jugaran dos tiempos de 22 minutos con 5 minutos de descanso. 
+* El saque de banda se realizara con las manos.
+* No existira la devolución hacia el portero,  el jugador podra devolver el balón a su portero cuantas veces quiera.
+* Existira tarjero roja y amarilla.
+* El saque del arquero sera con la mano desde su area correspondiente.
+* Se jugaran dos tiempos de 22 minutos con 5 minutos de descanso.
 * El minimo de jugadores para iniciar el partido seran de 4 jugadores.
 * El saque del arquero puede pasar de la mitad.
 * Y el córner se cobra con la mano igual que los laterales.
@@ -94,8 +94,8 @@ Las inscripciones para la primera versión de la CopaDev están **cerradas**. El
 | Hora     | Equipo 1     |   |   | Equipo 2       |
 |:---------|:-------------|:-:|:-:|:---------------|
 | 7:00 PM  | Vuela Seguro  | 8 | 5 | Mi Aguila     |
-| 7:00 PM  | VML           | 12 | 2 | Lequar        |
-| 8:00 PM  | Rokk3rlabs    | 11 | 7 | Axiacore      |
+| 7:00 PM  | VML           | 12 | 2 | Lequar       |
+| 8:00 PM  | Rokk3rlabs    | 11 | 7 | Axiacore     |
 | 8:00 PM  | EduNext       | 3 | 4 | Grability     |
 
 #### Fecha 2 - Miércoles 3 de agosto de 2016
@@ -135,6 +135,53 @@ Las inscripciones para la primera versión de la CopaDev están **cerradas**. El
 | Hora     | Equipo 1                     |   |   | Equipo 2                     |
 |:---------|:-----------------------------|:-:|:-:|:-----------------------------|
 | 9:00 PM  | Ganador partido 13           | - | - | Ganador partido 14           |
+
+#### Tabla de goleadores
+
+| P | Nombre                 | Goles   | Equipo                              |
+|:--|:-----------------------|:--------|:------------------------------------|
+| 1 | Cristian Buelvas       |    6    | VML                                 |
+| 2 | Brayan Tellez          |    4    | Rokk3rlabs                          |
+| 3 | Daniel Soler           |    3    | Axiacore                            |
+| 4 | Mauricio Pradilla      |    3    | Rokk3rlabs                          |
+| 5 | ???????                |    3    | Mi aguila                           |
+| 6 | Andrei Piza            |    2    | Rokk3rlabs                          |
+| 7 | Carlos Espinosa        |    2    | VML                                 |
+| 8 | Ivan Ramirez           |    2    | Axiacore                            |
+| 9 | Brandon Parra          |    2    | Vuela Seguro                        |
+|10 | Andrés Felipe Alfonso  |    2    | Vuela Seguro                        |
+|11 | Camilo Vidale          |    2    | VML                                 |
+|12 | Miguel Orjuela         |    2    | Rokk3rlabs                          |
+|13 | ?????????????          |    2    | Vuela Seguro                        |
+|14 | Santiago Feijoo        |    1    | Axiacore                            |
+|15 | Pablo Vallejo          |    1    | Axiacore                            |
+|16 | David Andres Acosta    |    1    | Lequar                              |
+|17 | Camilo Arias González  |    1    | Lequar                              |
+|18 | Jorge Enrique Santos   |    1    | VML                                 |
+|19 | Kerlyn Mariño          |    1    | VML                                 |
+|20 | Juan Salazar           |    1    | Grability                           |
+|21 | Yamid Viloria          |    1    | Grability                           |
+|22 | Takeshi                |    1    | Grability                           |
+|23 | Jhony Avella           |    1    | Edunext                             |
+|24 | Leonardo Quinones      |    1    | Edunext                             |
+|25 | Diego Mancilla         |    1    | Edunext                             |
+|26 | Jaime Pardo            |    1    | Vuela Seguro                        |
+|27 | Alexander Martinez     |    1    | Vuela Seguro                        |
+|28 | Carlos Goyeneche       |    1    | Mi aguila                           |
+|29 | Bruno Ocampo           |    1    | Mi aguila                           |
+
+*  *1 confirmar "Arbitros reportaron a Morales y no aparee en listado"         
+*  *2 confirmar "Arbitros reportaron a Murcia y no aparee en listado"          
+
+
+* Juan Carlos Martínez [@Draka](https://github.com/Draka)
+* Sebastián Osuna [@SebastianOsuna](https://github.com/SebastianOsuna)
+* Juan David Parra [@juanxme](https://github.com/juanxme)
+* Andrés Aldana [@andalm](https://github.com/andalm)
+* Carlos Goyeneche [@Goye](https://github.com/Goye)
+* Juan Carlos Márquez [@jZombie](https://github.com/jZombie)
+* Andrew Fletcher
+* Bruno Ocampo
 
 
 ### Sede
