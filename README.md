@@ -174,16 +174,6 @@ Las inscripciones para la primera versión de la CopaDev están **cerradas**. El
 *  *2 confirmar "Arbitros reportaron a Murcia y no aparee en listado"          
 
 
-* Juan Carlos Martínez [@Draka](https://github.com/Draka)
-* Sebastián Osuna [@SebastianOsuna](https://github.com/SebastianOsuna)
-* Juan David Parra [@juanxme](https://github.com/juanxme)
-* Andrés Aldana [@andalm](https://github.com/andalm)
-* Carlos Goyeneche [@Goye](https://github.com/Goye)
-* Juan Carlos Márquez [@jZombie](https://github.com/jZombie)
-* Andrew Fletcher
-* Bruno Ocampo
-
-
 ### Sede
 
 Lugar donde jugaremos el torneo.<br/>
