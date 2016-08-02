@@ -138,39 +138,40 @@ Las inscripciones para la primera versión de la CopaDev están **cerradas**. El
 
 #### Tabla de goleadores
 
-| | Nombre                   | Goles   | Equipo       |
-| |:-------------------------|:--------|:-------------|
-| 1 | Cristian Buelvas       |    6    | VML          |
-| 2 | Brayan Tellez          |    4    | Rokk3rlabs   |
-| 3 | Daniel Soler           |    3    | Axiacore     |
-| 4 | Mauricio Pradilla      |    3    | Rokk3rlabs   |
-| 5 | Murcia?                |    3    | Mi aguila    |
-| 6 | Andrei Piza            |    2    | Rokk3rlabs   |
-| 7 | Carlos Espinosa        |    2    | VML          |
-|13 | Ivan Ramirez           |    2    | Axiacore     |
-| 8 | Brandon Parra          |    2    | Vuela Seguro |
-| 9 | Andrés Felipe Alfonso  |    2    | Vuela Seguro |
-|10 | Camilo Vidale          |    2    | VML          |
-|11 | Miguel Orjuela         |    2    | Rokk3rlabs   |
-|12 | ?????????????          |    2    | Vuela Seguro |
-|14 | Santiago Feijoo        |    1    | Axiacore     |
-|15 | Pablo Vallejo          |    1    | Axiacore     |
-|16 | David Andres Acosta    |    1    | Lequar       |
-|17 | Camilo Arias González  |    1    | Lequar       |
-|18 | Jorge Enrique Santos   |    1    | VML          |
-|19 | Kerlyn Mariño          |    1    | VML          |
-|20 | Juan Salazar           |    1    | Grability    |
-|21 | Yamid Viloria          |    1    | Grability    |
-|22 | Takeshi                |    1    | Grability    |
-|23 | Jhony Avella           |    1    | Edunext      |
-|24 | Leonardo Quinones      |    1    | Edunext      |
-|25 | Diego Mancilla         |    1    | Edunext      |
-|26 | Jaime Pardo            |    1    | Vuela Seguro |
-|27 | Alexander Martinez     |    1    | Vuela Seguro |
-|28 | Carlos Goyeneche       |    1    | Mi aguila    |
-|29 | Bruno Ocampo           |    1    | Mi aguila    |
-|   | *1 confirmar "reportaron a morales"
-*2 confirmar "no aparece en listado"           |        |     |
+| P | Nombre                 | Goles   | Equipo                              |
+|:--|:-----------------------|:--------|:------------------------------------|
+| 1 | Cristian Buelvas       |    6    | VML                                 |
+| 2 | Brayan Tellez          |    4    | Rokk3rlabs                          |
+| 3 | Daniel Soler           |    3    | Axiacore                            |
+| 4 | Mauricio Pradilla      |    3    | Rokk3rlabs                          |
+| 5 | ???????                |    3    | Mi aguila                           |
+| 6 | Andrei Piza            |    2    | Rokk3rlabs                          |
+| 7 | Carlos Espinosa        |    2    | VML                                 |
+| 8 | Ivan Ramirez           |    2    | Axiacore                            |
+| 9 | Brandon Parra          |    2    | Vuela Seguro                        |
+|10 | Andrés Felipe Alfonso  |    2    | Vuela Seguro                        |
+|11 | Camilo Vidale          |    2    | VML                                 |
+|12 | Miguel Orjuela         |    2    | Rokk3rlabs                          |
+|13 | ?????????????          |    2    | Vuela Seguro                        |
+|14 | Santiago Feijoo        |    1    | Axiacore                            |
+|15 | Pablo Vallejo          |    1    | Axiacore                            |
+|16 | David Andres Acosta    |    1    | Lequar                              |
+|17 | Camilo Arias González  |    1    | Lequar                              |
+|18 | Jorge Enrique Santos   |    1    | VML                                 |
+|19 | Kerlyn Mariño          |    1    | VML                                 |
+|20 | Juan Salazar           |    1    | Grability                           |
+|21 | Yamid Viloria          |    1    | Grability                           |
+|22 | Takeshi                |    1    | Grability                           |
+|23 | Jhony Avella           |    1    | Edunext                             |
+|24 | Leonardo Quinones      |    1    | Edunext                             |
+|25 | Diego Mancilla         |    1    | Edunext                             |
+|26 | Jaime Pardo            |    1    | Vuela Seguro                        |
+|27 | Alexander Martinez     |    1    | Vuela Seguro                        |
+|28 | Carlos Goyeneche       |    1    | Mi aguila                           |
+|29 | Bruno Ocampo           |    1    | Mi aguila                           |
+
+*  *1 confirmar "Arbitros reportaron a Morales y no aparee en listado"         
+*  *2 confirmar "Arbitros reportaron a Murcia y no aparee en listado"          
 
 
 * Juan Carlos Martínez [@Draka](https://github.com/Draka)
