@@ -144,7 +144,7 @@ Las inscripciones para la primera versión de la CopaDev están **cerradas**. El
 | 2 | Brayan Tellez          |    4    | Rokk3rlabs                          |
 | 3 | Daniel Soler           |    3    | Axiacore                            |
 | 4 | Mauricio Pradilla      |    3    | Rokk3rlabs                          |
-| 5 | ???????                |    3    | Mi aguila                           |
+| 5 | ??????? *2             |    3    | Mi aguila                           |
 | 6 | Andrei Piza            |    2    | Rokk3rlabs                          |
 | 7 | Carlos Espinosa        |    2    | VML                                 |
 | 8 | Ivan Ramirez           |    2    | Axiacore                            |
@@ -152,7 +152,7 @@ Las inscripciones para la primera versión de la CopaDev están **cerradas**. El
 |10 | Andrés Felipe Alfonso  |    2    | Vuela Seguro                        |
 |11 | Camilo Vidale          |    2    | VML                                 |
 |12 | Miguel Orjuela         |    2    | Rokk3rlabs                          |
-|13 | ?????????????          |    2    | Vuela Seguro                        |
+|13 | ??????? * 1           |    2    | Vuela Seguro                        |
 |14 | Santiago Feijoo        |    1    | Axiacore                            |
 |15 | Pablo Vallejo          |    1    | Axiacore                            |
 |16 | David Andres Acosta    |    1    | Lequar                              |
