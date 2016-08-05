@@ -143,7 +143,7 @@ Las inscripciones para la primera versión de la CopaDev están **cerradas**. El
 |:--|:-----------------------|:--------|:------------------------------------|
 |1| Ivan Ramirez           |10| Axiacore                          |
 |2| Camilo Vidale          |9| VML                               |
-|3| Cristian Buelvas       |7| VML                               |
+|3| Cristian Buelvas       |6| VML                               |
 |4| Brayan Tellez          |6| Rokk3rla|bs                        |
 |5| Bruno Ocampo           |6| Mi aguila                         |
 |6| Daniel Soler           |5| Axiacore                          |
@@ -168,11 +168,11 @@ Las inscripciones para la primera versión de la CopaDev están **cerradas**. El
 |25| Santiago Feijoo        |2| Axiacore                          |
 |26| Pablo Vallejo          |2| Axiacore                          |
 |27| Steven Medina          |2| Lequar                            |
-|28| Humberto Camacho       |1| Axiacore                          |
-|29| Felipe Gonzales        |1| Axiacore                          |
-|30| Camilo Arias González  |1| Lequar                            |
-|31| Sebastian Chacon       |1| Lequar                            |
-|32| Jorge Enrique Santos   |1| VML                               |
+|28| Jorge Enrique Santos   |2| VML                               |
+|29| Humberto Camacho       |1| Axiacore                          |
+|30| Felipe Gonzales        |1| Axiacore                          |
+|31| Camilo Arias González  |1| Lequar                            |
+|32| Sebastian Chacon       |1| Lequar                            |
 |33| Fabiel Casas           |1| Grability                         |
 |34| Jonathan Pachec        |1| Grability                         |
 |35| Jhony Avella           |1| Edunext                           |
