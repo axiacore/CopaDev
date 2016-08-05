@@ -141,8 +141,6 @@ Las inscripciones para la primera versión de la CopaDev están **cerradas**. El
 
 | P | Nombre                 | Goles   | Equipo                              |
 |:--|:-----------------------|:--------|:------------------------------------|
-| P | Nombre                 | Goles   | Equipo                              |
-|:--|:-----------------------|:--------|:------------------------------------|
 |1| Ivan Ramirez           |10| Axiacore                          |
 |2| Camilo Vidale          |9| VML                               |
 |3| Cristian Buelvas       |7| VML                               |
