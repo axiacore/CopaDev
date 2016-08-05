@@ -174,7 +174,7 @@ Las inscripciones para la primera versión de la CopaDev están **cerradas**. El
 |31| Camilo Arias González  |1| Lequar                            |
 |32| Sebastian Chacon       |1| Lequar                            |
 |33| Fabiel Casas           |1| Grability                         |
-|34| Jonathan Pachec        |1| Grability                         |
+|34| Jonathan Pacheco       |1| Grability                         |
 |35| Jhony Avella           |1| Edunext                           |
 |36| Leonardo Quinones      |1| Edunext                           |
 |37| Jaime Pardo            |1| Vuela Seguro                      |
