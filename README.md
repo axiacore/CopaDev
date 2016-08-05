@@ -72,18 +72,19 @@ Las inscripciones para la primera versión de la CopaDev están **cerradas**. El
 #### Grupo A
 |Pos | Equipos        | Pts | PG  | PE  | PP  | GF  | GC  | DF  |
 |----|:---------------|:---:| :--:|:---:|:---:|:---:|:---:|:---:|
-|1   | Rokk3rlabs     | 3   | 1   | 0   | 0   | 11  | 7   | 4   |
-|2   | Vuela Seguro   | 3   | 1   | 0   | 0   | 8   | 5   | 3   |
-|3   | Mi Aguila      | 0   | 0   | 0   | 1   | 5   | 8   | -3   |
-|4   | Axiacore       | 0   | 0   | 0   | 1   | 7   | 11  | -4   |
+|1   | Vuela Seguro   | 6   | 2   | 0   | 0   | 14   | 10   | 4   |
+|2   | Rokk3rlabs     | 3   | 1   | 0   | 1   | 16  | 13   | 3   |
+|3   | Axiacore       | 3   | 1   | 0   | 1   | 21   | 19  | 2   |
+|4   | Mi Aguila      | 0   | 0   | 0   | 2   | 13   | 22   | -9   |
+
 
 #### Grupo B
 |Pos |Equipos       | Pts | PG  | PE  | PP  | GF  | GC  | DF  |
 |----| :------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|1   | VML          | 3   | 1   | 0   | 0   | 12  | 2   | 10   |
-|2   | Grability    | 3   | 1   | 0   | 0   | 4   | 3   | 1   |
-|3   | EduNext      | 0   | 0   | 0   | 1   | 3   | 4   | -1   |
-|4   | Lequar       | 0   | 0   | 0   | 1   | 2   | 12  | -10   |
+|1   | VML          | 6   | 2   | 0   | 0   | 25  | 4   | 21   |
+|2   | Grability    | 6   | 2   | 0   | 0   | 12   | 7   | 5   |
+|3   | EduNext      | 0   | 0   | 0   | 2   | 5   | 17   | -12   |
+|4   | Lequar       | 0   | 0   | 0   | 2   | 6   | 20  | -14   |
 
 
 ### Fechas
@@ -99,12 +100,12 @@ Las inscripciones para la primera versión de la CopaDev están **cerradas**. El
 | 8:00 PM  | EduNext       | 3 | 4 | Grability     |
 
 #### Fecha 2 - Miércoles 3 de agosto de 2016
-| Hora     | Equipo 1     |   |   | Equipo 2       |
-|:---------|:-------------|:-:|:-:|:---------------|
-| 8:00 PM  | Mi Aguila     | - | - | Axiacore      |
-| 8:00 PM  | Lequar        | - | - | Grability     |
-| 9:00 PM  | Vuela Seguro  | - | - | Rokk3rlabs    |
-| 9:00 PM  | VML           | - | - | EduNext       |
+| Hora     | Equipo 1      |   |   | Equipo 2       |
+|:---------|:--------------|:-:|:-:|:---------------|
+| 8:00 PM  | Mi Aguila     | 8 | 14 | Axiacore      |
+| 8:00 PM  | Lequar        | 4 | 8 | Grability     |
+| 9:00 PM  | Vuela Seguro  | 6 | 5 | Rokk3rlabs    |
+| 9:00 PM  | VML           | 13 | 2 | EduNext       |
 
 #### Fecha 3 - Miércoles 10 de agosto de 2016
 | Hora     | Equipo 1     |   |   | Equipo 2       |
