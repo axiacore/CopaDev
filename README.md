@@ -169,7 +169,7 @@ Las inscripciones para la primera versión de la CopaDev están **cerradas**. El
 |26| Pablo Vallejo          |2| Axiacore                          |
 |27| Steven Medina          |2| Lequar                            |
 |28| Jorge Enrique Santos   |2| VML                               |
-|29| Oscar Arellano         |2| VML                               |
+|29| Oscar Arellano         |2| Grability                         |
 |30| Felipe Gonzales        |1| Axiacore                          |
 |31| Camilo Arias González  |1| Lequar                            |
 |32| Sebastian Chacon       |1| Lequar                            |
