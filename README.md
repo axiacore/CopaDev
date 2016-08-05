@@ -82,9 +82,9 @@ Las inscripciones para la primera versión de la CopaDev están **cerradas**. El
 |Pos |Equipos       | Pts | PG  | PE  | PP  | GF  | GC  | DF  |
 |----| :------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1   | VML          | 6   | 2   | 0   | 0   | 25  | 4   | 21   |
-|2   | Grability    | 6   | 2   | 0   | 0   | 12   | 7   | 5   |
-|3   | EduNext      | 0   | 0   | 0   | 2   | 5   | 17   | -12   |
-|4   | Lequar       | 0   | 0   | 0   | 2   | 6   | 20  | -14   |
+|2   | Grability    | 6   | 2   | 0   | 0   | 10   | 8   | 2   |
+|3   | Lequar       | 0   | 0   | 0   | 2   | 7   | 18  | -11   |
+|4   | EduNext      | 0   | 0   | 0   | 2   | 5   | 17   | -12   |
 
 
 ### Fechas
@@ -103,7 +103,7 @@ Las inscripciones para la primera versión de la CopaDev están **cerradas**. El
 | Hora     | Equipo 1      |   |   | Equipo 2       |
 |:---------|:--------------|:-:|:-:|:---------------|
 | 8:00 PM  | Mi Aguila     | 8 | 14 | Axiacore      |
-| 8:00 PM  | Lequar        | 4 | 8 | Grability     |
+| 8:00 PM  | Lequar        | 5 | 6 | Grability     |
 | 9:00 PM  | Vuela Seguro  | 6 | 5 | Rokk3rlabs    |
 | 9:00 PM  | VML           | 13 | 2 | EduNext       |
 
