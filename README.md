@@ -72,19 +72,19 @@ Las inscripciones para la primera versión de la CopaDev están **cerradas**. El
 #### Grupo A
 |Pos | Equipos        | Pts | PG  | PE  | PP  | GF  | GC  | DF  |
 |----|:---------------|:---:| :--:|:---:|:---:|:---:|:---:|:---:|
-|1   | Vuela Seguro   | 6   | 2   | 0   | 0   | 14   | 10   | 4   |
-|2   | Rokk3rlabs     | 3   | 1   | 0   | 1   | 16  | 13   | 3   |
-|3   | Axiacore       | 3   | 1   | 0   | 1   | 21   | 19  | 2   |
-|4   | Mi Aguila      | 0   | 0   | 0   | 2   | 13   | 22   | -9   |
+|1   | Vuela Seguro   | 7   | 2   | 1   | 0   | 21   | 17   | 4   |
+|2   | Rokk3rlabs     | 6   | 2   | 0   | 1   | 30  | 18   | 12   |
+|3   | Axiacore       | 4   | 1   | 1   | 1   | 28   | 26  | 2   |
+|4   | Mi Aguila      | 0   | 0   | 0   | 3   | 18   | 36   | -8   |
 
 
 #### Grupo B
 |Pos |Equipos       | Pts | PG  | PE  | PP  | GF  | GC  | DF  |
 |----| :------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|1   | VML          | 6   | 2   | 0   | 0   | 25  | 4   | 21   |
-|2   | Grability    | 6   | 2   | 0   | 0   | 10   | 8   | 2   |
-|3   | Lequar       | 0   | 0   | 0   | 2   | 7   | 18  | -11   |
-|4   | EduNext      | 0   | 0   | 0   | 2   | 5   | 17   | -12   |
+|1   | VML          | 9   | 3   | 0   | 0   | 28  | 4   | 24   |
+|2   | Grability    | 6   | 2   | 0   | 1   | 10   | 11   | -1   |
+|3   | EduNext      | 3   | 1   | 0   | 2   | 14   | 20   | -6   |
+|4   | Lequar       | 0   | 0   | 0   | 3   | 10   | 27  | -17   |
 
 
 ### Fechas
@@ -108,31 +108,31 @@ Las inscripciones para la primera versión de la CopaDev están **cerradas**. El
 | 9:00 PM  | VML           | 13 | 2 | EduNext       |
 
 #### Fecha 3 - Miércoles 10 de agosto de 2016
-| Hora     | Equipo 1     |   |   | Equipo 2       |
-|:---------|:-------------|:-:|:-:|:---------------|
-| 8:00 PM  | Axiacore      | - | - | Vuela Seguro  |
-| 8:00 PM  | Grability     | - | - | VML           |
-| 9:00 PM  | Mi Aguila     | - | - | Rokk3rlabs    |
-| 9:00 PM  | Lequar        | - | - | EduNext       |
+| Hora     | Equipo 1     |   |   | Equipo 2      |
+|:---------|:-------------|:-:|:-:|:--------------|
+| 8:00 PM  | Axiacore     | 7 | 7 | Vuela Seguro  |
+| 8:00 PM  | Grability    | 0 | 3 | VML           |
+| 9:00 PM  | Mi Aguila    | 5 | 14 | Rokk3rlabs    |
+| 9:00 PM  | Lequar       | 3 | 9 | EduNext       |
 
 ### Semifinales
 
-#### Fecha 4: Miércoles 17 de agosto de 2016
-| Hora     | Equipo 1                     |   |   | Equipo 2                     |
-|:---------|:-----------------------------|:-:|:-:|:-----------------------------|
-| 8:00 PM  | Primer puesto grupo A        | - | - | Segundo puesto grupo B       |
-| 8:00 PM  | Primer puesto grupo B        | - | - | Segundo puesto grupo A       |
+#### Fecha 4: Jueves 18 de agosto de 2016
+| Hora     | Equipo 1     |   |   | Equipo 2        |
+|:---------|:-------------|:-:|:-:|:----------------|
+| 8:00 PM  | VML          | - | - | Rokk3rlabs      |
+| 9:00 PM  | Vuela Seguro | - | - | Grability       |
 
 ### Tercer puesto
 
-#### Fecha 5: Miércoles 24 de agosto de 2016
+#### Fecha 5: Miércoles 24 de agosto de 2016 (Pendiente de confirmar)
 | Hora     | Equipo 1                     |   |   | Equipo 2                     |
 |:---------|:-----------------------------|:-:|:-:|:-----------------------------|
 | 8:00 PM  | Perdedor partido 13          | - | - | Perdedor partido 14          |
 
 ### Final
 
-#### Fecha 5: Miércoles 24 de agosto de 2016
+#### Fecha 5: Miércoles 24 de agosto de 2016 (Pendiente de confirmar)
 | Hora     | Equipo 1                     |   |   | Equipo 2                     |
 |:---------|:-----------------------------|:-:|:-:|:-----------------------------|
 | 9:00 PM  | Ganador partido 13           | - | - | Ganador partido 14           |
