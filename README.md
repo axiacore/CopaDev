@@ -118,24 +118,24 @@ Las inscripciones para la primera versión de la CopaDev están **cerradas**. El
 ### Semifinales
 
 #### Fecha 4: Jueves 18 de agosto de 2016
-| Hora     | Equipo 1     |   |   | Equipo 2         |
-|:---------|:-------------|:-:|:-:|:-----------------|
-| 8:00 PM  | VML          | 11 | 5 | Rokk3rlabs      |
-| 9:00 PM  | Vuela Seguro | 6 (0) | 6 (2) | Grability|
+| Hora     | Equipo 1     |   |   | Equipo 2          |
+|:---------|:-------------|:-:|:-:|:------------------|
+| 8:00 PM  | VML          | 11 | 5 | Rokk3rlabs       |
+| 9:00 PM  | Vuela Seguro | 6 (0) | 6 (2) | Grability |
 
 ### Tercer puesto
 
 #### Fecha 5: Viernes 26 de agosto de 2016
-| Hora     | Equipo 1            |   |   | Equipo 2              |
-|:---------|:--------------------|:-:|:-:|:----------------------|
-| 8:00 PM  | Rokk3rlabs          | - | - | Perdedor Vuela Seguro |
+| Hora     | Equipo 1     |   |   | Equipo 2      |
+|:---------|:-------------|:-:|:-:|:--------------|
+| 8:00 PM  | Rokk3rlabs   | - | - | Vuela Seguro  |
 
 ### Final
 
 #### Fecha 5: Viernes 26 de agosto de 2016
-| Hora     | Equipo 1      |   |   | Equipo 2           |
-|:---------|:--------------|:-:|:-:|:-------------------|
-| 9:00 PM  | VML           | - | - | Grability          |
+| Hora     | Equipo 1      |   |   | Equipo 2     |  
+|:---------|:--------------|:-:|:-:|:-------------|
+| 9:00 PM  | VML           | - | - | Grability    |
 
 #### Tabla de goleadores
 
