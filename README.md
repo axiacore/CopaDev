@@ -121,7 +121,7 @@ Las inscripciones para la primera versión de la CopaDev están **cerradas**. El
 | Hora     | Equipo 1     |   |   | Equipo 2          |
 |:---------|:-------------|:-:|:-:|:------------------|
 | 8:00 PM  | VML          | 11 | 5 | Rokk3rlabs       |
-| 9:00 PM  | Vuela Seguro | 6 (0) | 6 (2) | Grability |
+| 9:00 PM  | Vuela Seguro | 5 (0) | 5 (2) | Grability |
 
 ### Tercer puesto
 
