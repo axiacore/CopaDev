@@ -128,14 +128,14 @@ Las inscripciones para la primera versión de la CopaDev están **cerradas**. El
 #### Fecha 5: Viernes 26 de agosto de 2016
 | Hora     | Equipo 1     |   |   | Equipo 2      |
 |:---------|:-------------|:-:|:-:|:--------------|
-| 8:00 PM  | Rokk3rlabs   | - | - | Vuela Seguro  |
+| 8:00 PM  | Rokk3rlabs   | 3 | 0 | Vuela Seguro  |
 
 ### Final
 
 #### Fecha 5: Viernes 26 de agosto de 2016
 | Hora     | Equipo 1      |   |   | Equipo 2     |  
 |:---------|:--------------|:-:|:-:|:-------------|
-| 9:00 PM  | VML           | - | - | Grability    |
+| 9:00 PM  | VML           | 5 | 1 | Grability    |
 
 #### Tabla de goleadores
 
